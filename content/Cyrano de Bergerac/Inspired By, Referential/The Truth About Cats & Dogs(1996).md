@@ -1,0 +1,39 @@
+### Notes:
+- Given the relative amount of time between this film and Roxanne, there's a part of me that fears it will take more from Roxanne than the source.
+- Howard Shore did the music? Give me a moment, I need to look into what else he did, because I have a sinking suspicion
+	- Okay, this is the Lord of the Rings guy, alongside Silence of the Lambs, Se7en, Ed Wood, and so on. But he didn't do Roxanne, which is what my suspicion was.
+- Main character is a radio show host for cats and dogs. Weird, but okay
+- Jesus Christ, did one of the callers euthanize their fish?
+- Okay, this is already a bit boring. Hoping this gets a bit better.
+- Apparently Uma Thurman is in this flick, but I've yet to see her. Maybe on a magazine ad.
+- Alright, well, Thurman is our Christian. Which is odd to me. I just know her as the Killer in Kill Bill.
+- I won't lie, the main character, Abby, is winning me over. Dry wit all the way, and it's gotten a laugh or two out of me.
+- Alright, we have our confused meet cute. Noelle is pretending to be Abby, and so he takes what she said earlier as true. Confused identities appears to be another common theme in these movies.
+- Apparently, the thirst is real.
+- Jesus, Abby is smitten with Brian. Too bad you set up this situation.
+- Alright, the dynamic between Noelle and Abby is shaping up fairly well.
+- There's going to be a running joke of dudes trying to hit on Noelle, isn't there.
+- Alright, the dynamic here is fairly different here. Our Cyrano is the shy one, while our Christian is the manipulator. Could be fun to see how this works out.
+- Miss Thurman, you need to keep a leash on your puppies. They are a big too energetic for me to handle.
+- Probably the loudest I've been in a while at the mall scene. "I'd fuck ya" caught me so off guard.
+- Jesus, there are so many cringe moments. Intentional, but still out of nowhere.
+- Uhhh. This is getting odd.
+- Oh no, it's the 90s trend of phone sex. Help me.
+- How long is this phone call going to last?!
+- Oh Christ, it is phone sex!! HELP ME!!
+- Look, a good old sex scene is alright with me, but I just can't watch a phone sex scene without cringing.
+- THEY WENT ALL NIGHT?!?!
+- Why is Roy still a thing?
+- And this is where things will screw up, won't they.
+- I took a break, and now I've sped it up. The movie is fairly boring at this point.
+- Well, at least Brian is starting to figure it out. About fucking time, really
+- What is this oddity. Just watching people get jealous over each other. This is basic 90s romcom at this point, and I'm bored. The Cyrano aspect is almost non-existent, and I don't know why it was listed as part of the repetoire. I'm placing this as "inspired by" rather than adaptation.
+- I'm sure there's some trope known as "mistaken identity" for romances, and I wouldn't really place that on the same level as a Cyrano story, where the mistaken identity is intentional.
+- Look, the acting is great. It's just the typical 90s romcom script, camera placement, and sets. It's not bad. It's just boring.
+- Ah, there's the closest thing to Cyrano. The idea of inner beauty. It's usually the aspect that pops up when it comes to modern retellings.
+- Liar exposed, and all that.
+- Even at 1.5x speed, this is dragging
+- Dog ball jumpscare
+- Literal line rip. "I've only loved one person, and I'm losing them twice"
+- Cool, it's done. Won't even leave a full review. It was overall boring, with Abby's snark being the best part. I don't even know if I'd call it an adaptation. It was more inspired by, but even then barely. It's more a mixed identity story than a deception story, like many of the others. 
+- Checking the credits, they don't even mention Cyrano as an inspiration, even though they take a few lines from it. It clearly was an inspiration, but that's about it.
