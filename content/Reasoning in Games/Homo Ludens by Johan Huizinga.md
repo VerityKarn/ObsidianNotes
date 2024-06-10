@@ -15,6 +15,9 @@
 - Huizinga makes arguments towards how play is not in contention with the concept of seriousness. Rather, serious play is a common idea, while there are other non-serious acts that can not be directly called play, such as comedy.
 - The first quality of play denoted by Huizinga is that play is freedom in some metaphysical sense. The second is that it is a stepping out from "real" life and exists in its own sphere. [[Homo Ludens by Johan Huizinga#^FirstQualities]]
 - The third element of play is its distinctiveness from "ordinary" life, as a secluded form. It is distinct from life, but it leaves memories and ideas that form tradition and cultural phenomenons.
+- By separating from "ordinary life", play can denote perfect rules and order in opposition to the general chaos of life. In this, there are various aspects of reality that can be extracted, such as pure aesthetic beauty.
+- Within the magic circle of play, there can be those who trespass the rules, or ignore them, which would be a "spoil-sport". Then there are those who cheat, or bend the rules to achieve an advantage. We are more inclined towards cheats than "spoil-sports", because the first keeps the game in motion, even if unfairly, while the second breaks the world of play established within the magic circle.
+- A game, when shared among a particular group, creates a play-community, which continues the tradition of the game into customs and traditions, which likely affects how that group associates their normative behavior among the group.
 - 
 ### Notable Quotes:
 
