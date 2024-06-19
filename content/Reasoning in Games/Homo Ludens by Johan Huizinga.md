@@ -20,7 +20,7 @@
 - Overall, it appears that the first section was to address the link between play and ritual, especially religious and ancient ritual. I'm assuming that the remaining sections pull this out into other sectors of life. The next section is on Language.
 
 ##### II:
-- 
+-   
 ### Notable Quotes:
 
 ##### Foreword:
