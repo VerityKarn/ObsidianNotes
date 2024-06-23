@@ -1,3 +1,7 @@
+PDF link: https://merton.bellarmine.edu/files/original/b0899cfad820ab8ad7033952b7a022ba1d7cab9d.pdf
+(Important Note: The title is translated as the Play-Element *in* Culture, but Huizinga was very clear that he wanted it translated as the Play-Element *of* Culture.)
+
+Wiki Link for overview: https://en.wikipedia.org/wiki/Homo_Ludens
 ### Chapter Notes:
 
 ##### Foreword:
@@ -20,7 +24,27 @@
 - Overall, it appears that the first section was to address the link between play and ritual, especially religious and ancient ritual. I'm assuming that the remaining sections pull this out into other sectors of life. The next section is on Language.
 
 ##### II:
--   
+- Huizinga states that the baseline for the play-concept is closest to what is defined by "play" in English, which corresponds to the concept in other modern European languages. A definition is then laid out, with some examples.
+- Huizinga then lays out that there are differences in how various languages encapsulate the concept of play, and that the linguistic development of these denote something more fundamental.
+- He begins with Greek, where several aspects of the play-concept is split among different words with different etymologies. There is the concept for childish playing, and for contests.
+- He brings up how other thinkers, namely "Professor Bolkestein", see this separation in Greek language as a fundamental contention to Huizinga's idea that contests and competition is linked to play, and that Huizinga is conflating two different ideas.
+- Huizinga's response is to state that the separation of the words themselves are not sufficient enough reason to believe that the fundamental core of each is not connected in some way, and that the play-concept underlies both, rather than be separate.
+- He continues to state that the Greeks had developed their rituals and contests to such a degree that they had begun to separate the concept from the fundamental core of the play-element, and thus developed the separation in language as a consequence.
+- Huizinga then moves onto the play-concept as expressed in Sanskrit, and the four different words relate to the original concept, with some etymological examination to find commonalities.
+- Then comes Chinese, where there are two different words that capture a similar divide as the Greeks, but with differing connotations.
+- Finally is Blackfoot, a tribe of the Algonkin, and how they similarly separate out contests and child's play, though with slight differences in usage.
+- Huizinga then doubles back to Bolkestein, in which he says that the Greek separation is not unique to the language, but appears to be within various, disconnected languages. As such, the mere separation of language is not sufficient to argue that it properly disconnects the two concepts.
+- Huizinga then goes through Japanese, Semitic languages, and finally Latin. Of particular note is Latin, and how it separates out *ludus*(To play) from *jocus*(To joke/jest). Later Romance languages have adopted the latter to assume both(*jouer, juegar, jogar, giocare*), and *ludus* has disappeared as a word, even if the concept continues.
+- What follows is the Germanic addition to the pool, where it had the broadest usage of the play-concept within language. The same branch of words could mean a variety of play activities.
+- Then comes the English etymology of the word play, and how it's borrowed from several different sources, especially Anglo-Saxon.
+- Huizinga then connects the linguistic play-concept to the linguistic contest-concept, demonstrating through several tales and songs that the words for play, battle, and contest tend to intermingle in usage.
+- Huizinga then denotes two uses of play within language that appear to not fully encapsulate the play-concept, but can fall into it:
+	- Music, in the sense of playing an instrument and of being a separate magic circle of being, can fall into the play-concept, but is not entirely within it, as other musical acts, such as singing, may not be fully captured by the linguistics of "play". One does not "play" their own voice, so to speak.
+	- Romance by itself may fall into the usage of play in language, but the act of copulation itself falls out of it. Typically, the idea of play appears in romantic or sexual acts that are outside the norm, rather than the norm. One is "playing around" when they cheat, or they would be a "player" if they ignore typical courting norms.
+- Finally, Huizinga notes that the language of play appears to be quite robust, while there is no simple word for the opposite of play. Tying back to the idea of seriousness, there is the word "earnest", which can denote that one is fervently working or focusing without play. Yet, play can be serious, so the presence of seriousness does not undermine the play-concept itself. Rather, seriousness can exist outside of play or within play. The lack of proper language to denote "not play" suggests the fundamental nature of the play-concept within culture.
+
+##### III:
+
 ### Notable Quotes:
 
 ##### Foreword:
@@ -86,3 +110,6 @@
 
 >We must ask whether this formal similarity entitles us to extend the qualification “play” to the consciousness of the holy, the faith embodied in these higher creeds. If we accept the Platonic definition of play there is nothing preposterous or irreverent in doing so. Play consecrated to the Deity, the highest goal of man's endeavour—such was Plato's conception of religion. In following him we in no way abandon the holy mystery, or cease to rate it as the highest attainable expression of that which escapes logical understanding. The ritual act, or an important part of it, will always remain within the play category, but in this seeming subordination the recognition of its holiness is not lost.
 >-Page 26
+
+##### II:
+>
