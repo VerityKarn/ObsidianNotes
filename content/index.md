@@ -7,3 +7,5 @@ All links go to notes for all my projects
 [[Homo Ludens by Johan Huizinga]]
 
 [[Weekly Notes Master Directory]]
+
+For the love of all that is holy, please push the updates
