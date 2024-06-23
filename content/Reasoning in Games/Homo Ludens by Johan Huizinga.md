@@ -8,7 +8,7 @@ Wiki Link for overview: https://en.wikipedia.org/wiki/Homo_Ludens
 - Commentary on the idea of Homo Sapiens and Homo Faber, and then adds that Homo Ludens should be considered.
 - Specifies that he is not talking about the Play Element "in" Culture, but the Play Element "of" Culture, specifying that the Genitive case best describes the relationship between Play and Culture.
 
-##### I:
+##### I Nature and Significance of Play as a Cultural Phenomenon:
 - Play predates and exists outside of culture, as it appears within animal behavior with no need for humans to introduce the behavior to them. Because of this, it is something more fundamental than culture.
 - Explaining play as merely a physiological or psychological phenomenon is missing the significance of play as a function within behavior overall.
 - While Huizinga doesn't dismiss these explanations of play, he finds the relationship a bit backwards. Specifically, these explanations try to explain play as fulfilling something that is not play itself, but is rather directed towards some end goal or purpose that is either social or biological. Yet, they don't answer what play is itself, and how it can be defined.
@@ -23,7 +23,7 @@ Wiki Link for overview: https://en.wikipedia.org/wiki/Homo_Ludens
 - Sacred ritual, Huizinga argues, is another form of play. It is serious, just like other forms of play, but it transports its participants to another world, is played by distinct and iron-clad rules, and elevates its players into a realm of "freedom". It has all the hallmarks of play, even if it is not recognized as such.
 - Overall, it appears that the first section was to address the link between play and ritual, especially religious and ancient ritual. I'm assuming that the remaining sections pull this out into other sectors of life. The next section is on Language.
 
-##### II:
+##### II The Play-Concept as Expressed in Language:
 - Huizinga states that the baseline for the play-concept is closest to what is defined by "play" in English, which corresponds to the concept in other modern European languages. A definition is then laid out, with some examples.
 - Huizinga then lays out that there are differences in how various languages encapsulate the concept of play, and that the linguistic development of these denote something more fundamental.
 - He begins with Greek, where several aspects of the play-concept is split among different words with different etymologies. There is the concept for childish playing, and for contests.
@@ -43,14 +43,15 @@ Wiki Link for overview: https://en.wikipedia.org/wiki/Homo_Ludens
 	- Romance by itself may fall into the usage of play in language, but the act of copulation itself falls out of it. Typically, the idea of play appears in romantic or sexual acts that are outside the norm, rather than the norm. One is "playing around" when they cheat, or they would be a "player" if they ignore typical courting norms.
 - Finally, Huizinga notes that the language of play appears to be quite robust, while there is no simple word for the opposite of play. Tying back to the idea of seriousness, there is the word "earnest", which can denote that one is fervently working or focusing without play. Yet, play can be serious, so the presence of seriousness does not undermine the play-concept itself. Rather, seriousness can exist outside of play or within play. The lack of proper language to denote "not play" suggests the fundamental nature of the play-concept within culture.
 
-##### III:
+##### III Play and Contest as Civilizing Functions:
+- 
 
 ### Notable Quotes:
 
 ##### Foreword:
 >There is a third function, however, applicable to both human and animal life, and just as important as reasoning and making—namely, playing. It seems to me that next to Homo Faber, and perhaps on the same level as Homo Sapiens, Homo Ludens, Man the Player, deserves a place in our nomenclature.
 >-Page ix
-##### I:
+##### I Nature and Significance of Play as a Cultural Phenomenon:
 >PLAY is older than culture, for culture, however inadequately defined, always presupposes human society, and animals have not waited for man to teach them their playing. We can safely assert, even, that human civilization has added no essential feature to the general idea of play. Animals play just like men. We have only to watch young dogs to see that all the essentials of human play are present in their merry gambols. They invite one another to play by a certain ceremoniousness of attitude and gesture. They keep to the rule that you shall not bite, or not bite hard, your brother's ear. They pretend to get terribly angry. And—what is most important—in all these doings they plainly experience tremendous fun and enjoyment. Such rompings of young dogs are only one of the simpler forms of animal play. There are other, much more highly developed forms: regular contests and beautiful performances before an admiring public.
 >-Page 1
 
@@ -111,5 +112,55 @@ Wiki Link for overview: https://en.wikipedia.org/wiki/Homo_Ludens
 >We must ask whether this formal similarity entitles us to extend the qualification “play” to the consciousness of the holy, the faith embodied in these higher creeds. If we accept the Platonic definition of play there is nothing preposterous or irreverent in doing so. Play consecrated to the Deity, the highest goal of man's endeavour—such was Plato's conception of religion. In following him we in no way abandon the holy mystery, or cease to rate it as the highest attainable expression of that which escapes logical understanding. The ritual act, or an important part of it, will always remain within the play category, but in this seeming subordination the recognition of its holiness is not lost.
 >-Page 26
 
-##### II:
+##### II The Play-Concept as Expressed in Language:
+>WHEN speaking of play as something known to all, and when trying to analyse or define the idea expressed in that word, we must always bear in mind that the idea as we know it is defined and perhaps limited by the word we use for it. Word and idea are not born of scientific or logical thinking but of creative language, which means of innumerable languages—for this act of “conception” has taken place over and over again. Nobody will expect that every language, in forming its idea of and expression for play, could have hit on the same idea or found a single word for it, in the way that every language has one definite word for “hand” or “foot”. The matter is not as simple as that.
+
+Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 28). Taylor & Francis. Kindle Edition. 
+
+>Such a concept, we felt, seemed to be tolerably well defined in the following terms: play is a voluntary activity or occupation executed within certain fixed limits of time and place, according to rules freely accepted but absolutely binding, having its aim in itself and accompanied by a feeling of tension, joy and the consciousness that it is “different” from “ordinary life”. Thus defined, the concept seemed capable of embracing everything we call “play” in animals, children and grown–ups: games of strength and skill, inventing games, guessing games, games of chance, exhibitions and performances of all kinds.
+
+Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 28). Taylor & Francis. Kindle Edition. 
+
+>It is probably no accident that the very peoples who have a pronounced and multifarious play–”instinct” have several distinct expressions for the play–activity. I think this is more or less true of Greek, Sanskrit, Chinese and English.
+
+Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 29). Taylor & Francis. Kindle Edition. 
+
+>Despite my admiration for Professor Bolkestein's lasting and lucid interpretation of Greek culture, and despite the fact that Greek is not alone in linguistically distinguishing between contest and play, I am fervently convinced of their underlying identity. Since we shall have to return again and again to this conceptual distinction I shall confine myself here to one argument only. The agon in Greek life, or the contest anywhere else in the world, bears all the formal characteristics of play, and as to its function belongs almost wholly to the sphere of the festival, which is the play–sphere. It is quite impossible to separate the contest as a cultural function from the complex “play–festival-rite”.
+
+Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 31). Taylor & Francis. Kindle Edition. 
+
+>In remarkable contrast to Greek with its changing and heterogeneous terms for the play–function, Latin has really only one word to cover the whole field of play: ludus, from ludere, of which lusus is a direct derivative. We should observe that jocus, jocari in the special sense of joking and jesting does not mean play proper in classical Latin.
+
+Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 35). Taylor & Francis. Kindle Edition. 
+
+>It is remarkable that ludus, as the general term for play, has not only not passed into the Romance languages but has left hardly any traces there, so far as I can see. In all of them—and this necessarily means at a quite early period—ludus has been supplanted by a derivative of jocus, which extended its specific sense of joking and jesting to “play” in general. Thus French has jeu> jouer; Italian gioco, giocare; Spanish juego, jugar; Portuguese jogo, jogar; Rumanian Joe, juca; while similar words occur in Catalan, Provençal and Rhaeto-Romanic. We must leave to one side the question whether the disappearance of ludus and ludere is due to phonetic or to semantic causes.
+
+Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 36). Taylor & Francis. Kindle Edition. 
+
+>Though you can “ein Spiel treiben” in German and “een Spiel doen” in Dutch and “pursue a game” in English, the proper verb is “play” itself. You “play a game”, or “spielen ein Spiel”. To some extent this is lost in English by the doublet play and game. Nevertheless the fact remains that in order to express the nature of the activity the idea contained in the noun must be repeated in the verb. Does not this mean that the act of playing is of such a peculiar and independent nature as to lie outside the ordinary categories of action? Playing is no “doing” in the ordinary sense; you do not “do” a game as you “do” or “go” fishing, or hunting, or Morris-dancing, or woodwork—you “play” it.
+
+Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 37). Taylor & Francis. Kindle Edition. 
+
+>The English “play”, “to play” is very remarkable from a semantic point of view. Etymologically the word comes from the Anglo–Saxon plega, plegan meaning primarily “play” or “to play”, but also rapid movement, a gesture, a grasp of the hands, clapping, playing on a musical instrument and all kinds of bodily activity.
+
+Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 38). Taylor & Francis. Kindle Edition. 
+
+>Who can deny that in all these concepts—challenge, danger, contest, etc.—we are very close to the play–sphere? Play and danger, risk, chance, feat—it is all a single field of action where something is at stake. One is tempted to conclude that the words play and pflegen together with their derivatives are not only formally but semantically identical.
+
+Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 40). Taylor & Francis. Kindle Edition. 
+
+>The rendering of the Vulgate ludant is faultless: “let them play”. The Hebrew text has here a form of the verb sahaq, meaning primarily “to laugh”, next “to do something jestingly”, and also “to dance”. In the Septuagint the wording is as follows: ἀναστήτωσαν δὴ τὰ παιδάρια καì παιζάτωσαν ἐνώπιον ἡμῶν. It is clear that there can be no question of poetic licence; the plain fact is that play may be deadly yet still remain play—which is all the more reason for not separating play and contest as concepts.1 A further conclusion emerges from this. Given the indivisibility of play and battle in the archaic mind, the assimilation of hunting to play naturally follows. We find it everywhere in language and literature and there is no need to dwell upon it here.
+
+Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 41). Taylor & Francis. Kindle Edition. 
+
+>If we stick to the formal and functional characteristics of play as summed up earlier it is evident that few of them are really illustrative of the sexual act. It is not the act as such that the spirit of language tends to conceive as play; rather the road thereto, the preparation for and introduction to “love”, which is often made enticing by all sorts of playing. This is particularly true when one of the sexes has to rouse or win the other over to copulating. The dynamic elements of play mentioned by Buytendijk, such as the deliberate creation of obstacles, adornment, surprise, pretence, tension, etc., all belong to the process of flirting and wooing. Nevertheless none of these functions can be called play in the strict sense. Only in the dance–steps, the preening and strutting of birds does the real play–element show itself. Caresses as such do not bear the character of play, though they may do on occasion; but it would be erroneous to incorporate the sexual act itself, as love–play, in the play category. The biological process of pairing does not answer to the formal characteristics of play as we postulated them. Language also normally distinguishes between love–play and copulation. The term “play” is specially or even exclusively reserved for erotic relationships falling outside the social norm.
+
+Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 43). Taylor & Francis. Kindle Edition. 
+
+>We can say, perhaps, that in language the play–concept seems to be much more fundamental than its opposite. The need for a comprehensive term expressing “not–play” must have been rather feeble, and the various expressions for “seriousness” are but a secondary attempt on the part of language to invent the conceptual opposite of “play”. They are grouped round the ideas of “zeal”, “exertion”, “painstaking”, despite the fact that in themselves all these qualities may be found associated with play as well. The appearance of a term for “earnest” means that people have become conscious of the play–concept as an independent entity— a process which, as we remarked before, happens rather late. Small wonder, then, that the Germanic languages with their very pronounced and comprehensive play–concept, also stressed its opposite so forcefully.
 >
+>Leaving aside the linguistic question and observing the play–earnest antithesis somewhat more closely, we find that the two terms are not of equal value: play is positive, earnest negative. The significance of “earnest” is defined by and exhausted in the negation of “play”—earnest is simply “not playing” and nothing more. The significance of “play”, on the other hand, is by no means defined or exhausted by calling it “not–earnest”, or “not serious”. Play is a thing by itself. The play–concept as such is of a higher order than is seriousness. For seriousness seeks to exclude play, whereas play can very well include seriousness.
+
+Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (pp. 44-45). Taylor & Francis. Kindle Edition. 
+
+##### III Play and Contest as Civilizing Functions:
