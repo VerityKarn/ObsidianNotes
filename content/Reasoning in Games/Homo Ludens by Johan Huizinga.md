@@ -1,14 +1,14 @@
-PDF link: https://merton.bellarmine.edu/files/original/b0899cfad820ab8ad7033952b7a022ba1d7cab9d.pdf
+PDF link: https://web.archive.org/web/20180410110028id_/http://art.yale.edu/file_columns/0000/1474/homo_ludens_johan_huizinga_routledge_1949_.pdf
 (Important Note: The title is translated as the Play-Element *in* Culture, but Huizinga was very clear that he wanted it translated as the Play-Element *of* Culture.)
 
 Wiki Link for overview: https://en.wikipedia.org/wiki/Homo_Ludens
 ### Chapter Notes:
 
-##### Foreword:
+#### Foreword:
 - Commentary on the idea of Homo Sapiens and Homo Faber, and then adds that Homo Ludens should be considered.
 - Specifies that he is not talking about the Play Element "in" Culture, but the Play Element "of" Culture, specifying that the Genitive case best describes the relationship between Play and Culture.
 
-##### I Nature and Significance of Play as a Cultural Phenomenon:
+#### I Nature and Significance of Play as a Cultural Phenomenon:
 - Play predates and exists outside of culture, as it appears within animal behavior with no need for humans to introduce the behavior to them. Because of this, it is something more fundamental than culture.
 - Explaining play as merely a physiological or psychological phenomenon is missing the significance of play as a function within behavior overall.
 - While Huizinga doesn't dismiss these explanations of play, he finds the relationship a bit backwards. Specifically, these explanations try to explain play as fulfilling something that is not play itself, but is rather directed towards some end goal or purpose that is either social or biological. Yet, they don't answer what play is itself, and how it can be defined.
@@ -23,7 +23,7 @@ Wiki Link for overview: https://en.wikipedia.org/wiki/Homo_Ludens
 - Sacred ritual, Huizinga argues, is another form of play. It is serious, just like other forms of play, but it transports its participants to another world, is played by distinct and iron-clad rules, and elevates its players into a realm of "freedom". It has all the hallmarks of play, even if it is not recognized as such.
 - Overall, it appears that the first section was to address the link between play and ritual, especially religious and ancient ritual. I'm assuming that the remaining sections pull this out into other sectors of life. The next section is on Language.
 
-##### II The Play-Concept as Expressed in Language:
+#### II The Play-Concept as Expressed in Language:
 - Huizinga states that the baseline for the play-concept is closest to what is defined by "play" in English, which corresponds to the concept in other modern European languages. A definition is then laid out, with some examples.
 - Huizinga then lays out that there are differences in how various languages encapsulate the concept of play, and that the linguistic development of these denote something more fundamental.
 - He begins with Greek, where several aspects of the play-concept is split among different words with different etymologies. There is the concept for childish playing, and for contests.
@@ -43,15 +43,42 @@ Wiki Link for overview: https://en.wikipedia.org/wiki/Homo_Ludens
 	- Romance by itself may fall into the usage of play in language, but the act of copulation itself falls out of it. Typically, the idea of play appears in romantic or sexual acts that are outside the norm, rather than the norm. One is "playing around" when they cheat, or they would be a "player" if they ignore typical courting norms.
 - Finally, Huizinga notes that the language of play appears to be quite robust, while there is no simple word for the opposite of play. Tying back to the idea of seriousness, there is the word "earnest", which can denote that one is fervently working or focusing without play. Yet, play can be serious, so the presence of seriousness does not undermine the play-concept itself. Rather, seriousness can exist outside of play or within play. The lack of proper language to denote "not play" suggests the fundamental nature of the play-concept within culture.
 
-##### III Play and Contest as Civilizing Functions:
-- 
+#### III Play and Contest as Civilizing Functions:
+- Huizinga makes it a point to state that it should be understood that he is not arguing that culture originated in play, nor that civilization came from play. Rather, it is all play at its core. Culture is play, and civilization is play.
+- While much of the play-concept becomes abstracted within culture, usually through ritual and competition, it often finds itself reasserting its form when it comes to the more formal acts of culture, such as in festivals, dances, performances, and the such.
+- Objectively, a result of a game or a contest is almost meaningless, yet it is treated with all seriousness. People still treat the completion of a game or contest as a great feat, even if little has changed in the world.
+- As an example, the outcome of a game of chess is, almost entirely, meaningless outside of the chess game itself. Yet, winning is still held as valuable in its own right, and may confer meaning to not only the player, but to the group they belong. Winning, even if materially meaningless, holds value.
+- There are also old ideas of "fair play" that do not appear to be congruent with our modern ideas. In various myths, heroes would win athletic contests by trickery or assistance from others. The value of winning, even by cheating, was respected moreso than "fair play".
+- Rituals and ceremonies demonstrate the concept of a dualism of the cosmos within the anthropological record, such as the concept of *yin* and *yang*. These opposing forces are often seen as competing forces, and formulate concepts of the world and balance. Once again, at the core is the play-concept, of all of life in competition, seeking to win.
+- Early conceptions of statehood built upon these contest models, in which the ruling tribe would place themselves as against those not of their tribe, effectively mythologizing and ritualizing the concept of those who were part of "civilization" and those who opposed it.
+- Huizinga gives a detailed description of the *potlatch*, which is [a ritual perpetuated by Indigenous peoples of the Pacific Northwest Coast](https://en.wikipedia.org/wiki/Potlatch) and how it relates to competition.
+- The general principle that Huizinga extracts from the potlatch is the superiority displayed by participating within the ritual of giving away or destroying one's own wealth, and that it incurs a challenge to their opponent, by showing how much one can give up and still live. He then goes through other stories and rituals where the same principle happens.
+	- At its core, the idea is that the honor and glory of winning is more valuable than material possessions, and the behavior appears enough within anthropology that we can not say it is a small facet of human life.
+- Virtue, as a concept, continually finds itself tied to values which are generally tied towards better outcomes in various contests, whether that be militarily, socially, economically, or politically. Virtues like courage, strength, morality, justice, and honor are applicable both in and out of various forms of contest.
+- The concept of Nobility, throughout multiple cultures, codifies several aspects of these virtues into an entire class of people, and will often reinvigorate their image of Nobility through various festivals, contests, and feats. In other words, the Noble are those who make winning an art form.
+- As an evolution of this nobility was the movement of contest into other forms, such as the use of overt politeness in China, of satire in Greece, or of bragging in Norse legend. One sought to gain the upper hand over a potential rival by showing how one was "more noble", and thus creating a new field for contests in nobility overall.
+- Huizinga then speaks of Jacob Burckhardt and his contributions to the defining of the agonal spirit of Greece. Specifically, Huizinga believes that Burckhardt had unfairly contained the agonistic qualities of Greek civilization to a small portion of Greek history, and not relevant to the remainder of Hellenistic Greece or to other civilizations.
+- He then moves on to address other thoughts by writers that were following Burckhardt's ideas, going through each to refute the central misconception in associating agonistic culture.
+- In summary, many of the elements of the play-concept are found in competition. At first, they are ways of understanding the world, usually as competing forces of nature. Over time, these give rise to ritual, ceremony, and contests, typically around early concepts of a people or a state. Within these, the drive towards victory, to secure honor and glory as victor, begins to drive the valuation of those who win and those who don't, leading to moral underpinnings and the rise of nobility. Further complexity is added as further significance, rules, and rituals are added to each layer, leading towards modern civilizations.
 
+#### IV Play and Law:
+- While the typical view of law is a matter of great seriousness and importance, this does not preclude the play-concept from underlying the proceedings and legal matters of the court.
+- The first part of evidence is the need to separate out the legal framework from normal life, sometimes literally in the sense of a specific space for legal matters, in which real life must pause for the rules and procedures of the court.
+- Legal professions also take on qualities of playing a character, much like how ancient rituals would don masks and take on the qualities of a role for a festival or dance. The lawyer must discard their self when engaging legally, and must become the character of prosecutor or defendant. The judge must equally become an *arbiter*, who does not exist as their own self, but as a character who stands above the proceedings.
+	- Various cases have occurred where lawyers or judges who insert their own lives into the proceedings of a case have been dismissed, primarily because they ruin the integrity of the court. While this does serve towards greater fairness and justice, we can also see how this ties into the play-concept. If you take in unfair information from outside the game, then you have ruined the game for all participants.
+- There is also the underlying aspect of the contest, in that each side seeks victory, and they primarily believe that they have the advantage over the other. This is more present in civil cases than criminal cases, but we can see this combative element within legal procedure from either.
+- Huizinga goes through several etymological foundations for justice being tied into the same words for scales or balance, which is not as much present in the modern day understandings of justice.
+- In a different concept of the legal system, the turning over of goods, including weddings, was often placed as a matter of contests among participating groups and families.
+- Fairly short chapter, really. Overall, it was more focused on older concepts of legal procedure, and how they differed from our modern ideas for justice. It's an informative chapter, especially from an anthropological view. Which, this is mostly an anthropological text, so that should be expected. Regardless, this is one of those chapters where it could have been interesting to go into how some of these ideas are still at play in legal procedures today. Again, though, this is not the purpose of the text, so my own expectations are not as important.
+
+#### V Play and War:
+- 
 ### Notable Quotes:
 
-##### Foreword:
+#### Foreword:
 >There is a third function, however, applicable to both human and animal life, and just as important as reasoning and making—namely, playing. It seems to me that next to Homo Faber, and perhaps on the same level as Homo Sapiens, Homo Ludens, Man the Player, deserves a place in our nomenclature.
 >-Page ix
-##### I Nature and Significance of Play as a Cultural Phenomenon:
+#### I Nature and Significance of Play as a Cultural Phenomenon:
 >PLAY is older than culture, for culture, however inadequately defined, always presupposes human society, and animals have not waited for man to teach them their playing. We can safely assert, even, that human civilization has added no essential feature to the general idea of play. Animals play just like men. We have only to watch young dogs to see that all the essentials of human play are present in their merry gambols. They invite one another to play by a certain ceremoniousness of attitude and gesture. They keep to the rule that you shall not bite, or not bite hard, your brother's ear. They pretend to get terribly angry. And—what is most important—in all these doings they plainly experience tremendous fun and enjoyment. Such rompings of young dogs are only one of the simpler forms of animal play. There are other, much more highly developed forms: regular contests and beautiful performances before an admiring public.
 >-Page 1
 
@@ -112,7 +139,7 @@ Wiki Link for overview: https://en.wikipedia.org/wiki/Homo_Ludens
 >We must ask whether this formal similarity entitles us to extend the qualification “play” to the consciousness of the holy, the faith embodied in these higher creeds. If we accept the Platonic definition of play there is nothing preposterous or irreverent in doing so. Play consecrated to the Deity, the highest goal of man's endeavour—such was Plato's conception of religion. In following him we in no way abandon the holy mystery, or cease to rate it as the highest attainable expression of that which escapes logical understanding. The ritual act, or an important part of it, will always remain within the play category, but in this seeming subordination the recognition of its holiness is not lost.
 >-Page 26
 
-##### II The Play-Concept as Expressed in Language:
+#### II The Play-Concept as Expressed in Language:
 >WHEN speaking of play as something known to all, and when trying to analyse or define the idea expressed in that word, we must always bear in mind that the idea as we know it is defined and perhaps limited by the word we use for it. Word and idea are not born of scientific or logical thinking but of creative language, which means of innumerable languages—for this act of “conception” has taken place over and over again. Nobody will expect that every language, in forming its idea of and expression for play, could have hit on the same idea or found a single word for it, in the way that every language has one definite word for “hand” or “foot”. The matter is not as simple as that.
 
 Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 28). Taylor & Francis. Kindle Edition. 
@@ -163,4 +190,114 @@ Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 43). T
 
 Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (pp. 44-45). Taylor & Francis. Kindle Edition. 
 
-##### III Play and Contest as Civilizing Functions:
+#### III Play and Contest as Civilizing Functions:
+>WHEN speaking of the play–element in culture we do not mean that among the various activities of civilized life an important place is reserved for play, nor do we mean that civilization has arisen out of play by some evolutionary process, in the sense that something which was originally play passed into something which was no longer play and could henceforth be called culture. The view we take in the following pages is that culture arises in the form of play, that it is played from the very beginning. Even those activities which aim at the immediate satisfaction of vital needs— hunting, for instance—tend, in archaic society, to take on the play–form. Social life is endued with supra–biological forms, in the shape of play, which enhance its value. It is through this playing that society expresses its interpretation of life and the world. By this we do not mean that play turns into culture, rather that in its earliest phases culture has the play–character, that it proceeds in the shape and the mood of play. In the twin union of play and culture, play is primary.
+
+Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 46). Taylor & Francis. Kindle Edition. 
+
+>As a rule the play–element gradually recedes into the background, being absorbed for the most part in the sacred sphere. The remainder crystallizes as knowledge: folklore, poetry, philosophy, or in the various forms of judicial and social life. The original play–element is then almost completely hidden behind cultural phenomena. But at any moment, even in a highly developed civilization, the play–“instinct” may reassert itself in full force, drowning the individual and the mass in the intoxication of an immense game.
+
+Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (pp. 46-47). Taylor & Francis. Kindle Edition. 
+
+>As we have indicated before, all the basic factors of play, both individual and communal, are already present in animal life—to wit, contests, performances, exhibitions, challenges, preenings, struttings and showings–off, pretences and binding rules. It is doubly remarkable that birds, phylogenetically so far removed from human beings, should have so much in common with them. Woodcocks perform dances, crows hold flying–matches, bower–birds and others decorate their nests, song–birds chant their melodies. Thus competitions and exhibitions as amusements do not proceed from culture, they rather precede it.
+
+Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 47). Taylor & Francis. Kindle Edition. 
+
+>We would allude once more to the remarkable testimony from the Second Book of Samuel, where a fight to the death between two groups was still called “playing”, the word used being taken from the sphere of laughter. On numerous Greek vases we can see that a contest of armed men is characterized as an agon by the presence of the flute–players who accompany it. At the Olympic games there were duels fought to the death.1 The mighty tours de force accomplished by Thor and his companions in their contest with the Man of Utgardaloki are called leika, “play”. For all these reasons it would not seem overbold to consider the terminological disparity between contest and play in Greek as the more or less accidental failure to abstract a general concept that would have embraced both. In short, the question as to whether we are entitled to include the contest in the play–category can be answered unhesitatingly in the affirmative.
+
+Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (pp. 48-49). Taylor & Francis. Kindle Edition. 
+
+>“There is something at stake”—the essence of play is contained in that phrase. But this “something” is not the material result of the play, not the mere fact that the ball is in the hole, but the ideal fact that the game is a success or has been successfully concluded. Success gives the player a satisfaction that lasts a shorter or a longer while as the case may be. The pleasurable feeling of satisfaction mounts with the presence of spectators, though these are not essential to it. A person who gets a game of patience “out” is doubly delighted when somebody is watching him. In all games it is very important that the player should be able to boast of his success to others.
+
+Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (pp. 49-50). Taylor & Francis. Kindle Edition. 
+
+>What is “winning”, and what is “won”? Winning means showing oneself superior in the outcome of a game. Nevertheless, the evidence of this superiority tends to confer upon the winner a semblance of superiority in general. In this respect he wins something more than the game as such. He has won esteem, obtained honour; and this honour and esteem at once accrue to the benefit of the group to which the victor belongs. Here we have another very important characteristic of play: success won readily passes from the individual to the group. But the following feature is still more important: the competitive “instinct” is not in the first place a desire for power or a will to dominate. The primary thing is the desire to excel others, to be the first and to be honoured for that. The question whether, in the result, the power of the individual or the group will be increased, takes only a second place. The main thing is to have won. The purest example of a victory which has nothing visible or enjoyable about it save the mere fact of winning, is afforded by a game of chess.
+
+Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 50). Taylor & Francis. Kindle Edition. 
+
+>We might say that proper to all the derivations of the Latin root vad is a sense of passion, of chance, of daring, as regards both economic activity and play activity. Pure avarice neither trades nor plays; it does not gamble. To dare, to take risks, to bear uncertainty, to endure tension—these are the essence of the play spirit. Tension adds to the importance of the game and, as it increases, enables the player to forget that he is only playing.
+
+Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 51). Taylor & Francis. Kindle Edition. 
+
+>It is a well–known fact that such an idea underlies most primitive ritual. Every ceremony well performed, every game or contest duly won, every act of sacrifice auspiciously concluded, fervently convinces archaic man that a boon and a blessing have thereby been procured for the community. The sacrifices or sacred dances have been successfully executed; now all is well, the higher powers are on our side, the cosmic order is safeguarded, social well–being is assured for us and ours. Of course this feeling is not to be imagined as the end-result of a series of reasonable deductions. It is rather a life–feeling, a feeling of satisfaction crystallized into faith more or less formulated in the mind.
+
+Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 54). Taylor & Francis. Kindle Edition. 
+
+>All these forms of contest betray their connection with ritual over and over again by the constant belief that they are indispensable for the smooth running of the seasons, the ripening of crops, the prosperity of the whole year. If the outcome of a contest as such, as a performance, is deemed to influence the course of nature, it follows that the particular kind of contest through which this result is obtained is a matter of small moment. It is the winning itself that counts. Every victory represents, that is, realizes for the victor the triumph of the good powers over the bad, and at the same time the salvation of the group that effects it. The victory not only represents that salvation but, by so doing, makes it effective.
+
+Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 56). Taylor & Francis. Kindle Edition. 
+
+>Indeed, we may go one further and say that for the human mind the ideas of happiness, luck and fate seem to lie very close to the realm of the sacred. In order to realize these mental associations we moderns have only to think of the sort of futile auguries we all used to practise in childhood without really believing in them, and which a perfectly balanced adult not in the least given to superstition may sometimes catch himself doing. As a rule we do not attribute much importance to them. It is rather rare to find such futilities actually recorded in literature, but as an example I would refer you to the passage in Tolstoy's Resurrection, where one of the judges on entering the court says silently to himself: “If I reach my seat with an even number of steps I shall have no stomach pains to-day”.
+
+Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (pp. 56-57). Taylor & Francis. Kindle Edition. 
+
+>The potlatch and everything connected with it hinges on winning, on being superior, on glory, prestige and, last but not least, revenge. Always, even when only one person is the feast–giver, there are two groups standing in opposition but bound by a spirit of hostility and friendship combined. In order to understand this ambivalent attitude we must recognize that the essential feature of the potlatch is the winning of it. The opposed groups do not contend for wealth or power but simply for the pleasure of parading their superiority—in a word, for glory.
+
+Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 59). Taylor & Francis. Kindle Edition. 
+
+>The underlying principle in all the strange usages associated with the potlatch is, in my view, the agonistic “instinct” pure and simple. They must all be regarded first and foremost as a violent expression of the human need to fight. Once this is admitted we may call them, strictly speaking, “play”—serious play, fateful and fatal play, bloody play, sacred play, but nonetheless that playing which, in archaic society, raises the individual or the collective personality to a higher power.
+
+Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 61). Taylor & Francis. Kindle Edition. 
+
+>From the life of childhood right up to the highest achievements of civilization one of the strongest incentives to perfection, both individual and social, is the desire to be praised and honoured for one's excellence. In praising another each praises himself. We want to be honoured for our virtues. We want the satisfaction of having done something well. Doing something well means doing it better than others. In order to excel one must prove one's excellence; in order to merit recognition, merit must be made manifest. Competition serves to give proof of superiority. This is particularly true of archaic society.
+
+Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 63). Taylor & Francis. Kindle Edition. 
+
+>The virtue of a man of quality consists in the set of properties which make him fit to fight and command. Among these liberality, wisdom and justice occupy a high place. It is perfectly natural that with many peoples the word for virtue derives from the idea of manliness or “virility”, as for instance the Latin virtus, which retained its meaning of “courage” for a very long time—until, in fact, Christian thought became dominant. The same is true of the Arabic muru'a, comprising, like the Greek ἀρετή, the whole semantic complex of strength, valour, wealth, right, good management, morality, urbanity, fine manners, magnanimity, liberality and moral perfection. In every archaic community that is healthy, being based on the tribal life of warriors and nobles, there will blossom an ideal of chivalry and chivalrous conduct, whether it be in Greece, Arabia, Japan or mediaeval Christendom. And this virile ideal of virtue will always be bound up with the conviction that honour, to be valid, must be publicly acknowledged and forcibly maintained if need be. Even in Aristotle honour is called the “prize of virtue”.1 His thought is, of course, far above the level of archaic culture. He does not call honour the aim or basis of virtue, but the natural measure of it. “Men crave honour,” he says, “in order to persuade themselves of their own worth, their virtue. They aspire to be honoured by persons of judgement and in virtue of their real value.”
+
+Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 64). Taylor & Francis. Kindle Edition. 
+
+>This boosting of one's own virtue as a form of contest slips over quite naturally into contumely of one's adversary, and this in its turn becomes a contest in its own right. It is remarkable how large a place these bragging and scoffing matches occupy in the most diverse civilizations. Their play–character is beyond dispute: we have only to think of the doings of little boys to qualify such slanging–matches as a form of play. All the same, we must distinguish carefully between the formal boasting or. scoffing tournament and the more spontaneous bravado which used to inaugurate or accompany a fight with weapons, though it is not at. all easy to draw the line.
+
+Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 65). Taylor & Francis. Kindle Edition. 
+
+>A too narrow conception of the agonistic principle has induced Ehrenberg to deny it to Roman civilization, or actually to attribute to it an anti–agonistic character.1 It is true that contests between free men played a comparatively small part here, but this is not to say that the agonistic element was altogether lacking in the structure of Roman civilization. Rather we are dealing with the singular phenomenon showing how the competitive impulse shifted, at an early period, from the protagonist to the spectator, who merely watches the struggles of others appointed for that purpose. Without a doubt this shift is closely connected with the profoundly ritualistic character of the Roman games themselves, for this vicarious attitude is quite in place in ritual, where the contestants are regarded as representing—i.e. fighting on behalf of—the spectators. Gladiatorial games, contests between wild beasts, chariot–races, etc., lose nothing of their agonistic nature even when carried out by slaves. The ludi were either associated with the regular yearly festivals or were ludi votivi, held in honour of some vow, usually to pay homage to the deceased or, more particularly, to avert the wrath of the gods. The slightest offence against the ritual or the most accidental disturbance invalidated the whole performance. This points to the sacred character of the action.
+
+Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 74). Taylor & Francis. Kindle Edition. 
+
+>There was no transition from “battle to play” in Greece, nor from play to battle, but a development of culture in play–like contest. In Greece as elsewhere the play–element was present and significant from the beginning. Our point of departure must be the conception of an almost childlike play–sense expressing itself in various play–forms, some serious, some playful, but all rooted in ritual and productive of culture by allowing the innate human need of rhythm, harmony, change, alternation, contrast and climax, etc., to unfold in full richness. Coupled with this play–sense is a spirit that strives for honour, dignity, superiority and beauty. Magic and mystery, heroic longings, the foreshadowings of music, sculpture and logic all seek form and expression in noble play. A later generation will call the age that knew such aspirations “heroic”.
+
+Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 75). Taylor & Francis. Kindle Edition. 
+
+>During the growth of a civilization the agonistic function attains its most beautiful form, as well as its most conspicuous, in the archaic phase. As a civilization becomes more complex, more variegated and more overladen, and as the technique of production and social life itself become more finely organized, the old cultural soil is gradually smothered under a rank layer of ideas, systems of thought and knowledge, doctrines, rules and regulations, moralities and conventions which have all lost touch with play. Civilization, we then say, has grown more serious; it assigns only a secondary place to playing. The heroic period is over, and the agonistic phase, too, seems a thing of the past.
+
+Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 75). Taylor & Francis. Kindle Edition. 
+
+#### IV Play and Law:
+>AT FIRST sight few things would seem to be further apart than the domain of law, justice and jurisprudence, and play. High seriousness, deadly earnest and the vital interests of the individual and society reign supreme in everything that pertains to the law. The etymological foundation of most of the words which express the ideas of law and justice lies in the sphere of setting, fixing, establishing, stating, appointing, holding, ordering, choosing, dividing, binding, etc. All these ideas would seem to have little or no connection with, indeed to be opposed to, the semantic sphere which gives rise to the words for play. However, as we have observed all along, the sacredness and seriousness of an action by no means preclude its play–quality.
+
+Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 76). Taylor & Francis. Kindle Edition. 
+
+>Contest means play. As we have seen, there is no sufficient reason to deny any contest whatsoever the character of play. The playful and the contending, lifted on to the plane of that sacred seriousness which every society demands for its justice, are still discernible to-day in all forms of judicial life. The pronouncement of justice takes place in a “court”, for a start. This court is still, in the full sense of the word, the ἱερὸς ϰύϰλoς, the sacred circle within which the judges are shown sitting, in the shield of Achilles.1 Every place from which justice is pronounced is a veritable temenos, a sacred spot cut off and hedged in from the “ordinary” world.
+
+Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (pp. 76-77). Taylor & Francis. Kindle Edition. 
+
+>The judge's wig, however, is more than a mere relic of antiquated professional dress. Functionally it has close connections with the dancing masks of savages. It transforms the wearer into another “being”… And it is by no means the only very ancient feature which the strong sense of tradition so peculiar to the British has preserved in law. The sporting element and the humour so much in evidence in British legal practice is one of the basic features of law in archaic society.
+
+Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 77). Taylor & Francis. Kindle Edition. 
+
+>Let us turn back once more to the archaic forms of legal procedure. Any proceeding before a judge will always and in all circumstances be dominated by the intense desire of each party to gain his cause. The desire to win is so strong that the agonistic factor cannot be discounted for a single moment. If this does not of itself suffice to disclose the connection between legal justice and play, the formal characteristics of the law as practised lend added weight to our contention. The judicial contest is always subject to a system of restrictive rules which, quite apart from the limitations of time and place, set the lawsuit firmly and squarely in the domain of orderly, antithetical play. The active association of law and play, particularly in archaic culture, can be seen from three points of view. The lawsuit can be regarded as a game of chance, a contest, or a verbal battle.
+
+Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 78). Taylor & Francis. Kindle Edition. 
+
+>Turning our eyes from the administration of justice in highly developed civilizations to that which obtains in less advanced phases of culture, we see that the idea of right and wrong, the ethical–juridical conception, comes to be overshadowed by the idea of winning and losing, that is, the purely agonistic conception. It is not so much the abstract question of right and wrong that occupies the archaic mind as the very concrete question of winning or losing. Once given this feeble ethical standard the agonistic factor will gain enormously in legal practice the further back we go; and as the agonistic element increases so does the element of chance, with the result that we soon find ourselves in the play–sphere. We are confronted by a mental world in which the notion of decision by oracles, by the judgement of God, by ordeal, by sortilege—i.e. by play—and the notion of decision by judicial sentence, fuse in a single complex of thought. Justice is made subservient—and quite sincerely—to the rules of the game. We, still acknowledge the incontrovertibility of such decisions when, failing to make up our minds, we resort to drawing lots or “tossing up”.
+
+Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (pp. 78-79). Taylor & Francis. Kindle Edition. 
+
+>The winning as such is, for the archaic mind, proof of truth and rightness. The outcome of every contest, be it a trial of strength or a game of chance, is a sacred decision vouchsafed by the gods. We still fall into this habit of thought when we accept a rule that runs: unanimity decides the issue, or when we accept a majority vote. Only in a more advanced phase of religious experience will the formula run: the contest (or ordeal) is a revelation of truth and justice because some deity is directing the fall of the dice or the outcome of the battle.
+
+Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (pp. 81-82). Taylor & Francis. Kindle Edition. 
+
+>It is certainly no accident that contests play a particularly important part in the choosing of a bride or bridegroom. The English word “wedding”, like the Dutch “bruiloft”, harks back to the dawn of legal and social history. “Wedding,” derived from the Anglo-Saxon wed and ultimately from the Latin vadium, speaks of the “pledge” or “gage” with which one bound oneself to keep an “engagement” already contracted. Bruiloft—wedding-party—is the exact equivalent of the Old English brydhleap, Old Norse brudhlaup, Old High German brutlouft, meaning the race run for the bride, this being one of the trials on which the contract depended.
+
+Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 83). Taylor & Francis. Kindle Edition. 
+
+>The lawsuit remains, in the nature of things, a verbal battle even when it has lost its play–quality wholly or in part, actually or in appearance, with the progress of civilization. For the purposes of our theme, however, we are concerned only with the archaic phase of this verbal battle, where the agonistic factor is at its strongest and the ideal foundation of justice at its weakest. Here it is not the most meticulously deliberated juristic argument that tips the balance, but the most withering and excoriating invective. The agon in this case consists almost exclusively in the endeavour of each party to exceed the other in choice vituperation and so to keep the upper hand.
+
+Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 84). Taylor & Francis. Kindle Edition. 
+
+>It was only when Stoicism became the fashion that efforts were made to freejuristic eloquence of the play–character and purify it in accordance with the severe standards of truth and dignity professed by the Stoics. The first man who attempted to put this new approach into practice was a certain Rutilius Rufus. He lost his cause and had to retreat into exile.
+
+Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 88). Taylor & Francis. Kindle Edition. 
+
+#### V Play and War:
