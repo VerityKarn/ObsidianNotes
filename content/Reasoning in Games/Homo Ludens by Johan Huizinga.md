@@ -84,6 +84,17 @@ Wiki Link for overview: https://en.wikipedia.org/wiki/Homo_Ludens
 - Overall, a very interesting chapter. It's also where I'm now convinced that this book ought to be a companion piece to Nietzsche's "Genealogy of Morals". While Nietzsche was primarily focused on the history and change of moral philosophy, Huizinga actually provides a very good anthropological companion to the concepts of Master and Slave morality. Much of the play-concept appears within various forms of humanity, but the constant re-emergence of the noble classes deciding what denotes "good form" is a fantastic display of what Nietzsche was overall attempting to explain.
 
 #### VI Playing and Knowing:
+- Knowledge is another form of contest, in which holding exact and esoteric knowledge can be seen as victory over those with lesser knowledge.
+- In particular, the overall use of riddles and word-play as contests can be traced throughout much of the lineage of human creations.
+- The original sense of philosophy, which is to ask question regarding the state of reality and how one knows it, finds itself within these esoteric riddles and lines. Much like how a child asks seemingly simple questions, the actual depth of knowledge is astounding. An example given by Huizinga is the childish question of "Where does wind come from?" While the answer may be simple(a change in pressure within the atmosphere leading to gases moving towards low pressure), there are some surprisingly deep insights at the core. It's a question about the origination of a force that could lead to further questions(Where does air come from? Why does it change pressure? What is low and high pressure air?). It's "playing" with general concepts in knowledge(origination, movement, physics, and how to know all of it)
+- Huizinga then goes through several mythological examples of riddle-solving as a rite of passage among various group, and the punishment for not being able to answer the questions.
+- The riddle, as a base form, eventually gives rise to a growth of differing, but related, forms of intelligence play, both in terms of philosophical inquiry and of intellectual pastime.
+- These growths lead to what we now call scientific or scholastic discussion, where seemingly simple questions lead to further inquiry into the nature of reality. Questions such as "what does the earth rest on?" start to unravel the play-concept within inquiry of this kind.
+- Early philosophizing also holds competitive aspects within itself, as many early philosophers would lay a particular focus on competing forces, such as *yin* and *yang*, or the idea of beneficial suffering.
+- Another fairly short chapter, with much of it focused on examples from mythology. All illuminating and help to bolster the central idea that Huizinga is focused on. Overall though, the concept is fairly easy to grasp early on, so much of reading the chapter is to add to the pile of evidence that Huizinga has already established.
+
+#### VII Play and Poetry:
+- 
 ### Notable Quotes:
 
 #### Foreword:
@@ -361,3 +372,40 @@ Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 102). 
 Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 104). Taylor & Francis. Kindle Edition. 
 
 #### VI Playing and Knowing:
+>THE urge to be first has as many forms of expression as society offers opportunities for it. The ways in which men compete for superiority are as various as the prizes at stake. Decision may be left to chance, physical strength, dexterity, or bloody combat. Or there may be competitions in courage and endurance, skilfulness, knowledge, boasting and cunning. A trial of strength may be demanded or a specimen of art; a sword has to be forged or ingenious rhymes made. Questions may be put demanding an answer. The competition may take the form of an oracle, a wager, a lawsuit, a vow or a riddle. But in whatever shape it comes it is always play, and it is from this point of view that we have to interpret its cultural function.
+
+Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 105). Taylor & Francis. Kindle Edition. 
+
+>For archaic man, doing and daring are power, but knowing is magical power. For him all particular knowledge is sacred knowledge—esoteric and wonder–working wisdom, because any knowing is directly related to the cosmic order itself. The orderly procession of things, decreed by the gods and maintained in being by ritual for the preservation of life and the salvation of man—this universal order or ṛtam as it was called in Sanskrit, is safeguarded by nothing more potently than by the knowledge of holy things, their secret names, and the origin of the world.
+
+Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 105). Taylor & Francis. Kindle Edition. 
+
+>Archaic thought, brooding in rapture on the mysteries of Being, is hovering here over the border–line between sacred poetry, profoundest wisdom, mysticism and sheer verbal mystification. It is not for us to account for each separate element in these outpourings. The poet–priest is continually knocking at the door of the Unknowable, closed to him as to us. All we can say of these venerable texts is that in them we are witnessing the birth of philosophy, not in vain play but in sacred play. Highest wisdom is practised as an esoteric tour de force. We may note in passing that the cosmogonic question as to how the world came about is one of the prime pre–occupations of the human mind. Experimental child-psychology has shown that a large part of the questions put by a six–year–old are actually of a cosmogonic nature, as for instance: What makes water run? Where does the wind come from? What is dead? etc.
+
+Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 107). Taylor & Francis. Kindle Edition. 
+
+>The riddle is a sacred thing full of secret power, hence a dangerous thing. In its mythological or ritual context it is nearly always what German philologists know as the Halsrätsel or “capital riddle”, which you either solve or forfeit your head. The player's life is at stake. A corollary of this is that it is accounted the highest wisdom to put a riddle nobody can answer.
+
+Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (pp. 108-109). Taylor & Francis. Kindle Edition. 
+
+>The answer to an enigmatic question is not found by reflection or logical reasoning. It comes quite literally as a sudden solution— a loosening of the tie by which the questioner holds you bound. The corollary of this is that by giving the correct answer you strike him powerless. In principle there is only one answer to every question. It can be found if you know the rules of the game. These are grammatical, poetical, or ritualistic as the case may be. You have to know the secret language of the adepts and be acquainted with the significance of each symbol—wheel, bird, cow, etc.—for the various categories of phenomena. Should it prove that a second answer is possible, in accord with the rules but not suspected by the questioner, then it will go badly with him: he is caught in his own trap. On the other hand, a thing may be figuratively represented in so many ways as to allow of concealment in the most diverse riddles. Often the solution depends wholly on the knowledge of the secret or sacred names of things, as in the Alvissmál cited above.
+
+Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 110). Taylor & Francis. Kindle Edition. 
+
+>The riddle, we may conclude, was originally a sacred game, and as such it cut clean across any possible distinction between play and seriousness. It was both at once: a ritual element of the highest importance and yet essentially a game. As civilization develops, the riddle branches out in two directions: mystic philosophy on the one hand and recreation on the other. But in this development we must not think of seriousness degenerating into play or of play rising to the level of seriousness. It is rather that civilization gradually brings about a certain division between two modes of mental life which we distinguish as play and seriousness respectively, but which originally formed a continuous mental medium wherein that civilization arose.
+
+Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 110). Taylor & Francis. Kindle Edition. 
+
+>The Greeks of the later period were perfectly well aware of the connection between riddle–solving and the origins of philosophy. Clearchus, a pupil of Aristotle, evolved a theory of the riddle in a treatise on proverbs, proving that the riddle had once been a subject of philosophy. “The ancients”, he says, “used it as a proof of their education (ǀαιδεία)”,2 a remark that clearly refers to the philosophical riddle–solving we dealt with above. Indeed, it would not be too strenuous or far–fetched to derive the earliest products of Greek philosophy from those immemorial riddle–questions.
+
+Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 115). Taylor & Francis. Kindle Edition. 
+
+>Leaving aside the question of how far the word “problem” itself (πρόβληµα)—literally “what is thrown before you”—points to the challenge as the origin of philosophic judgement, we can say with certainty that the philosopher, from the earliest times to the late Sophists and Rhetors, always appeared as a typical champion. He challenged his rivals, he attacked them with vehement criticism and extolled his own opinions as the only true ones with all the boyish cocksureness of archaic man. In style and form the earliest samples of philosophy are polemical and agonistic. They invariably speak in the first person singular.
+
+Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 115). Taylor & Francis. Kindle Edition. 
+
+>All these samples of early philosophizing are pervaded by a strong sense of the agonistic structure of the universe. The processes in life and the cosmos are seen as the eternal conflict of opposites which is the root-principle of existence, like the Chinese yin and yang. For Heraclitus, strife was “the father of all things”, and Empedocles postulated φιλία and νεϰoς—attraction and discord—as the two principles which rule the universal process from everlasting to everlasting. It was no accident that the antithetical trend of archaic philosophy was fully reflected in the antithetical and agonistic structure of archaic society. Man had long been accustomed to think of everything as cleft into opposites and dominated by conflict. Hesiod recognizes a good Eris— beneficial strife—as well as a destructive Eris.
+
+Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 116). Taylor & Francis. Kindle Edition. 
+
+#### VII Play and Poetry:
