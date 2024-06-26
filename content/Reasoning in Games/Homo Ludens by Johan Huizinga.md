@@ -576,6 +576,8 @@ Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 188). 
 
 Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 192). Taylor & Francis. Kindle Edition. 
 
+#### XII: The Play-Element in Contemporary Civilization:
+
 >The spirit of the professional is no longer the true play–spirit; it is lacking in spontaneity and carelessness. This affects the amateur too, who begins to suffer from an inferiority complex. Between them they push sport further and further away from the play–sphere proper until it becomes a thing sui generis: neither play nor earnest. In modern social life sport occupies a place alongside and apart from the cultural process. The great competitions in archaic cultures had always formed part of the sacred festivals and were indispensable as health and happiness-bringing activities. This ritual tie has now been completely severed; sport has become profane, “unholy” in every way and has no organic connection whatever with the structure of society, least of all when prescribed by the government.
 
 Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (pp. 197-198). Taylor & Francis. Kindle Edition. 
