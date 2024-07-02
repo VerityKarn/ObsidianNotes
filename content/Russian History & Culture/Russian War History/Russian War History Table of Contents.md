@@ -10,8 +10,7 @@
 - [[Soviet-Afghan War(1979-1989)]]
 ### Wars of Modern Russian Expansion and Influence:
 
-- [[First Chechen War(1994-1996)]]
-- [[Second Chechen War(1999-2009)]]
+- [[Chechen Wars(1994-1996, 1999-2009)]]
 - [[Russo-Georgian War(2008)]]
 - [[Syrian Civil War(2011-Present)]]
 - [[Annexation of Crimea to Modern Ukraine Invasion(2014-Present)]]
