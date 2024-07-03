@@ -4,13 +4,11 @@ PDF link: https://web.archive.org/web/20180410110028id_/http://art.yale.edu/file
 Wiki Link for overview: https://en.wikipedia.org/wiki/Homo_Ludens
 
 Final thoughts: For quite some time, I've used the concept of a game to properly describe various scenarios, and as a shorthand to best exemplify how particular systems work. Little did I know, but there was quite a bit more to the comparison than I had originally thought. Huizinga's contribution here, that being the extraction of the play-element as the operating function of culture, has made these previous connections far more solid in my understanding. Play, in its natural form, serves as a basis to understand the growth of culture and civilization moreso than almost any other force. Though, a note to any potential reader: Much of the book is an incredibly robust examination of the anthropological record. This will mean lots of reading over a general premise again and again, as Huizinga will demonstrate how an element of play existed in one culture, then the next, then the next. It can, especially during the first half, be quite dry and repetitious. Yet, this is exactly what makes many of the conclusions as strong as they are. This is not a fanciful whim of some person or another, but an tightly woven explanation of how the play-concept manifests itself in a myriad number of ways. It is well worth the dryness.
-### Chapter Notes:
-
-#### Foreword:
+# Chapter Notes:
+## Foreword:
 - Commentary on the idea of Homo Sapiens and Homo Faber, and then adds that Homo Ludens should be considered.
 - Specifies that he is not talking about the Play Element "in" Culture, but the Play Element "of" Culture, specifying that the Genitive case best describes the relationship between Play and Culture.
-
-#### I Nature and Significance of Play as a Cultural Phenomenon:
+## I Nature and Significance of Play as a Cultural Phenomenon:
 - Play predates and exists outside of culture, as it appears within animal behavior with no need for humans to introduce the behavior to them. Because of this, it is something more fundamental than culture.
 - Explaining play as merely a physiological or psychological phenomenon is missing the significance of play as a function within behavior overall.
 - While Huizinga doesn't dismiss these explanations of play, he finds the relationship a bit backwards. Specifically, these explanations try to explain play as fulfilling something that is not play itself, but is rather directed towards some end goal or purpose that is either social or biological. Yet, they don't answer what play is itself, and how it can be defined.
@@ -24,8 +22,7 @@ Final thoughts: For quite some time, I've used the concept of a game to properly
 - Play transcends into ritual, but there is question about how.
 - Sacred ritual, Huizinga argues, is another form of play. It is serious, just like other forms of play, but it transports its participants to another world, is played by distinct and iron-clad rules, and elevates its players into a realm of "freedom". It has all the hallmarks of play, even if it is not recognized as such.
 - Overall, it appears that the first section was to address the link between play and ritual, especially religious and ancient ritual. I'm assuming that the remaining sections pull this out into other sectors of life. The next section is on Language.
-
-#### II The Play-Concept as Expressed in Language:
+## II The Play-Concept as Expressed in Language:
 - Huizinga states that the baseline for the play-concept is closest to what is defined by "play" in English, which corresponds to the concept in other modern European languages. A definition is then laid out, with some examples.
 - Huizinga then lays out that there are differences in how various languages encapsulate the concept of play, and that the linguistic development of these denote something more fundamental.
 - He begins with Greek, where several aspects of the play-concept is split among different words with different etymologies. There is the concept for childish playing, and for contests.
@@ -45,7 +42,7 @@ Final thoughts: For quite some time, I've used the concept of a game to properly
 	- Romance by itself may fall into the usage of play in language, but the act of copulation itself falls out of it. Typically, the idea of play appears in romantic or sexual acts that are outside the norm, rather than the norm. One is "playing around" when they cheat, or they would be a "player" if they ignore typical courting norms.
 - Finally, Huizinga notes that the language of play appears to be quite robust, while there is no simple word for the opposite of play. Tying back to the idea of seriousness, there is the word "earnest", which can denote that one is fervently working or focusing without play. Yet, play can be serious, so the presence of seriousness does not undermine the play-concept itself. Rather, seriousness can exist outside of play or within play. The lack of proper language to denote "not play" suggests the fundamental nature of the play-concept within culture.
 
-#### III Play and Contest as Civilizing Functions:
+## III Play and Contest as Civilizing Functions:
 - Huizinga makes it a point to state that it should be understood that he is not arguing that culture originated in play, nor that civilization came from play. Rather, it is all play at its core. Culture is play, and civilization is play.
 - While much of the play-concept becomes abstracted within culture, usually through ritual and competition, it often finds itself reasserting its form when it comes to the more formal acts of culture, such as in festivals, dances, performances, and the such.
 - Objectively, a result of a game or a contest is almost meaningless, yet it is treated with all seriousness. People still treat the completion of a game or contest as a great feat, even if little has changed in the world.
@@ -63,7 +60,7 @@ Final thoughts: For quite some time, I've used the concept of a game to properly
 - He then moves on to address other thoughts by writers that were following Burckhardt's ideas, going through each to refute the central misconception in associating agonistic culture.
 - In summary, many of the elements of the play-concept are found in competition. At first, they are ways of understanding the world, usually as competing forces of nature. Over time, these give rise to ritual, ceremony, and contests, typically around early concepts of a people or a state. Within these, the drive towards victory, to secure honor and glory as victor, begins to drive the valuation of those who win and those who don't, leading to moral underpinnings and the rise of nobility. Further complexity is added as further significance, rules, and rituals are added to each layer, leading towards modern civilizations.
 
-#### IV Play and Law:
+## IV Play and Law:
 - While the typical view of law is a matter of great seriousness and importance, this does not preclude the play-concept from underlying the proceedings and legal matters of the court.
 - The first part of evidence is the need to separate out the legal framework from normal life, sometimes literally in the sense of a specific space for legal matters, in which real life must pause for the rules and procedures of the court.
 - Legal professions also take on qualities of playing a character, much like how ancient rituals would don masks and take on the qualities of a role for a festival or dance. The lawyer must discard their self when engaging legally, and must become the character of prosecutor or defendant. The judge must equally become an *arbiter*, who does not exist as their own self, but as a character who stands above the proceedings.
@@ -73,7 +70,7 @@ Final thoughts: For quite some time, I've used the concept of a game to properly
 - In a different concept of the legal system, the turning over of goods, including weddings, was often placed as a matter of contests among participating groups and families.
 - Fairly short chapter, really. Overall, it was more focused on older concepts of legal procedure, and how they differed from our modern ideas for justice. It's an informative chapter, especially from an anthropological view. Which, this is mostly an anthropological text, so that should be expected. Regardless, this is one of those chapters where it could have been interesting to go into how some of these ideas are still at play in legal procedures today. Again, though, this is not the purpose of the text, so my own expectations are not as important.
 
-#### V Play and War:
+## V Play and War:
 - Very quickly, Huizinga establishes that we often relate the concept of war with the concept of games, especially as a form of metaphor for rules of combat, strategy, and victory.
 - He does make a quick distinction between wars generally fought among equals in civilization, where rules and honor are far more apparent, and wars that exist between groups that consider the other side to be lesser than them, in which the slaughter of the opposition takes precedent. In the former, it is very much like a game. In the latter, foes are often treated as less than human, and so there are often no formal rules or honor to be had in such a war.
 - Still, there are reasons to believe that glory and conquest play a part in most wars, even if it is not the primary factor for the majority of causes of war.
@@ -85,7 +82,7 @@ Final thoughts: For quite some time, I've used the concept of a game to properly
 - The portion of history in which the play-concept was the strongest were generally the Medieval kingdoms, typically like the feudal systems of Europe and Japan, in which a noble class treated warfare as a matter of honor and contest. The ideals of war were tied into the ideals of the noble class, and thus the conduct of war, while possibly at its most brutal, was still conducted around general notions of conduct and honor.
 - Overall, a very interesting chapter. It's also where I'm now convinced that this book ought to be a companion piece to Nietzsche's "Genealogy of Morals". While Nietzsche was primarily focused on the history and change of moral philosophy, Huizinga actually provides a very good anthropological companion to the concepts of Master and Slave morality. Much of the play-concept appears within various forms of humanity, but the constant re-emergence of the noble classes deciding what denotes "good form" is a fantastic display of what Nietzsche was overall attempting to explain.
 
-#### VI Playing and Knowing:
+## VI Playing and Knowing:
 - Knowledge is another form of contest, in which holding exact and esoteric knowledge can be seen as victory over those with lesser knowledge.
 - In particular, the overall use of riddles and word-play as contests can be traced throughout much of the lineage of human creations.
 - The original sense of philosophy, which is to ask question regarding the state of reality and how one knows it, finds itself within these esoteric riddles and lines. Much like how a child asks seemingly simple questions, the actual depth of knowledge is astounding. An example given by Huizinga is the childish question of "Where does wind come from?" While the answer may be simple(a change in pressure within the atmosphere leading to gases moving towards low pressure), there are some surprisingly deep insights at the core. It's a question about the origination of a force that could lead to further questions(Where does air come from? Why does it change pressure? What is low and high pressure air?). It's "playing" with general concepts in knowledge(origination, movement, physics, and how to know all of it)
@@ -95,7 +92,7 @@ Final thoughts: For quite some time, I've used the concept of a game to properly
 - Early philosophizing also holds competitive aspects within itself, as many early philosophers would lay a particular focus on competing forces, such as *yin* and *yang*, or the idea of beneficial suffering.
 - Another fairly short chapter, with much of it focused on examples from mythology. All illuminating and help to bolster the central idea that Huizinga is focused on. Overall though, the concept is fairly easy to grasp early on, so much of reading the chapter is to add to the pile of evidence that Huizinga has already established.
 
-#### VII Play and Poetry:
+## VII Play and Poetry:
 - The fundamental aspects of poetry are the separation from real life and the playing with concepts in a seemingly new reality-scape. In essence, poetry is the playground of images, concepts, and language to invoke something wholly distinct.
 - Archaic uses of poetry were not just simply aesthetic in function, but also served for purposes such as record-keeping, ritual, doctrine, persuasion, and competition.
 - Poetry played parts in delivering news, in arguing a point, in mocking those in power, in conducting rituals, and more.
@@ -103,7 +100,7 @@ Final thoughts: For quite some time, I've used the concept of a game to properly
 - Huizinga gives plenty of examples of the competitive use of poetry.
 - Not many notes on this chapter. Overall, the general premise tends to cycle back into itself quite a bit, and so the general notion is quite apparent. It's another chapter where the most value is in the anthropological data that Huizinga provides. I'm also beginning to realize that I may not be the best person to describe this treatise. Much of this is situated on a large amount of anthropological and ethnological information, of which I have only a passing knowledge.
 
-#### VIII The Elements of Mythopoesis:
+## VIII The Elements of Mythopoesis:
 - Personification is a regular attribute of mythology, and the play-concept finds itself coming forward within it. The Greek ideas of the Discords, or the Fates are some examples, while Norse ideas of the whole of creation coming from some great personified force are another.
 - Huizinga argues that these personifications, throughout a myriad of myths and fables, are tied into the essential play-concept through the mind's need to play with ideas.
 - Even in the modern day, we find ourselves often referring to objects and ideas as if they are actually beings. Though, we would never actually say that we believe objects or the such to actually "be" in the same sense as a person. Rather, we play with the personification of objects.
@@ -111,7 +108,7 @@ Final thoughts: For quite some time, I've used the concept of a game to properly
 - Finally, there is the growth of the two great genres: tragedy and comedy, and how each is the play-concept taken in two differing directions.
 - The shortest portion of the whole book, it is a genuinely dense one. Taking the basis of the previous part, this portion does well to better capture a specific element of poetry overall, and the relationship between it and myth: personification.
 
-#### IX Play-Forms in Philosophy:
+## IX Play-Forms in Philosophy:
 - Sophistry, as a form of gotcha questions and attempting to play around with concepts, is the play-concept found within archaic philosophy. While it was denigrated by Socrates, and subsequent philosophers, the sophistic quality of philosophy was still important to early philosophy, and gave the rest of philosophy the play-concept of pushing and pulling ideas into further and further abstractions.
 - Side note: by this point in the book, I've actually picked up reading ancient Greek words. I wouldn't be able to translate anything put in front of me, but I'm quite a bit more confident in sounding out the words laid in front of me. Guess going through all that etymological work has actually paid off in some sense for me.
 - Huizinga actually calls out Plato's dialogues as being constructed play conversations meant to best display his opponents in the light he wants the reader to see them in. They are fiction, in other words. Good. We honestly need more people viewing the dialogues as fiction.
@@ -120,7 +117,7 @@ Final thoughts: For quite some time, I've used the concept of a game to properly
 	- Bit of a personally funny point to see, as this was exactly the layout that occurred in Utah with its Universities, especially their Philosophy departments. One was focused on the Philosophy of Science, while another followed Cultural studies within the vein of Marxist thought, and another found their value in producing robust Theological thinkers. Other "lesser" colleges and universities would find their own niches.
 - Overall, actually one of my favorite portions so far. Much of it builds off of the previous portions, and it provides a very good foundation for how one can find the play-concept within modern philosophy, which I've noted above with my own experiences.
 
-#### X Play-Forms in Art:
+## X Play-Forms in Art:
 - The relationship between music and play is almost entirely obvious on its face: the entwining of the magic circle into the presence of embodying the element of music itself, and the rules which denote music, namely rhythm and harmony.
 - Firstly, Huizinga focuses on the ruminations of Plato and Aristotle regarding music, and how it relates to the sense of leisure that it originally embodied.
 - Even when speaking of music poorly, Plato still associated play with music, in that it was one creating concepts and ideas dependent on the mode one played in. For him, it was primarily a question of moral or immoral creativity.
@@ -132,7 +129,7 @@ Final thoughts: For quite some time, I've used the concept of a game to properly
 - Though, Huizinga does talk about how competition has a role in the creation of the plastic arts, especially in the idea of creating that which is regarded to be truly the best.
 - Overall, another fantastic chapter. In all honesty, this book is somewhat more dry and boring in the first half, but comes alive in the second. This makes sense, as much of the foundation is laid bare in the first half, usually through very stringent examinations of etymology, mythology, and cultural artifacts. The second half builds almost entirely on the first, and cements much of the concepts within the more mundane structures, which are especially prevalent today. Essentially, Huizinga builds from the archaic structures, but then leads the reader towards how those structures play a role in the modern world. It gives one much more appreciation for the first half, even if a bit of a slog to get through.
 
-#### XI Western Civilization Sub Specie Ludi:
+## XI Western Civilization Sub Specie Ludi:
 - Huizinga then hopes to move forward from archaic society to extract the play-concept from later civilizations, in an effort to show that modern civilization is equally a creation of the play-concept, even if it has been abstracted to the point that it becomes far less apparent.
 - The first major civilization he examines is the Roman Empire, specifically in two parts. The Republican era is where the play-concept is still readily seen upon the face of the normal ongoings of Roman daily life. Yet, during the Empire era, there are further complications added on top. The Emperor becomes a sort of ritualistic symbol, and various policies, architecture and expansions also take the same ritualistic quality.
 - In particular, the old concept of *panem et circenses* fulfilled a more rigid, ritual structure for the play-concept to survive within, though was far from the only outcropping
@@ -147,19 +144,18 @@ Final thoughts: For quite some time, I've used the concept of a game to properly
 - When Huizinga gets to the 19th century he gives a rather biting critique of Marxism, rationalism, and utilitarianism. Gave me a good chuckle, honestly.
 - Overall, he appears to argue that the 19th century is the period that was most devoid of the play-element, almost as if the era was marked by a drive to quash it entirely from as much of life as possible.
 
-#### XII The Play-Element in Contemporary Civilization:
+## XII The Play-Element in Contemporary Civilization:
 - It should be first noted that this book was originally released in 1938, which was still fairly early into the 20th century, and that Huizinga himself died in 1945. As such, everything here would be focused on the changes that occurred from essentially the post-WWI era and before of the general 20th century. Thus, any extrapolation on the later half, namely the Cold War era, is not part of the original product, and thus the addition of myself.
 - Effort appears, in the late 19th and early 20th century, to be attempting to bring back various play-elements. The rise of sports as a spectacle, for instance. As someone in 2024, I can say that this turned out to be more true than not, as massive events are made regarding leagues such as the NFL, FIFA, Cricket in India, MMA and Boxing is now internationally famous, and various other sports appear to have their niches. Even esports has become a growing and fairly new phenomenon that's found an outlet, even for a massive event this year in Saudi Arabia.
 - Though, it turns out that this is not what Huizinga is talking about. While sports may be connected with the concept of games, Huizinga actually finds that the systematization and regimentation of sport to create a new form, which almost removes the play-element itself. It's a sterile form of play, which holds nothing of the previous form, except in a clinical sense.
 - Then he moves onto art, and I'm starting to get the feeling that Huizinga is quite dour on contemporary matters. He does point out that the play-element, mostly as a play-community devoted to esoteric aesthetics, does exist in art, but that it is in deference to the commodification of art.
 - He continues the idea into scientific inquiry, in which one can find vestiges of the play-element, but that the overall systems of scientific work and community remove much of the play found in archaic scientific thought.
 - If I thought he was being harsh before, Huizinga's comments on politics are about as damning as one can get. His comments regarding the growth of war as "matter of fact" rather than the opposing of rivalrous forces especially fit this. He also touches upon the possibility of international law as a framework to utilize for play, but notes that it gets ruined again and again by those who "cheat" or "spoil" the game by ignoring or fighting against International Law.
-### Notable Quotes:
-
-#### Foreword:
+# Notable Quotes:
+## Foreword:
 >There is a third function, however, applicable to both human and animal life, and just as important as reasoning and making—namely, playing. It seems to me that next to Homo Faber, and perhaps on the same level as Homo Sapiens, Homo Ludens, Man the Player, deserves a place in our nomenclature.
 >-Page ix
-#### I Nature and Significance of Play as a Cultural Phenomenon:
+## I Nature and Significance of Play as a Cultural Phenomenon:
 >PLAY is older than culture, for culture, however inadequately defined, always presupposes human society, and animals have not waited for man to teach them their playing. We can safely assert, even, that human civilization has added no essential feature to the general idea of play. Animals play just like men. We have only to watch young dogs to see that all the essentials of human play are present in their merry gambols. They invite one another to play by a certain ceremoniousness of attitude and gesture. They keep to the rule that you shall not bite, or not bite hard, your brother's ear. They pretend to get terribly angry. And—what is most important—in all these doings they plainly experience tremendous fun and enjoyment. Such rompings of young dogs are only one of the simpler forms of animal play. There are other, much more highly developed forms: regular contests and beautiful performances before an admiring public.
 >-Page 1
 
@@ -220,7 +216,7 @@ Final thoughts: For quite some time, I've used the concept of a game to properly
 >We must ask whether this formal similarity entitles us to extend the qualification “play” to the consciousness of the holy, the faith embodied in these higher creeds. If we accept the Platonic definition of play there is nothing preposterous or irreverent in doing so. Play consecrated to the Deity, the highest goal of man's endeavour—such was Plato's conception of religion. In following him we in no way abandon the holy mystery, or cease to rate it as the highest attainable expression of that which escapes logical understanding. The ritual act, or an important part of it, will always remain within the play category, but in this seeming subordination the recognition of its holiness is not lost.
 >-Page 26
 
-#### II The Play-Concept as Expressed in Language:
+## II The Play-Concept as Expressed in Language:
 >WHEN speaking of play as something known to all, and when trying to analyse or define the idea expressed in that word, we must always bear in mind that the idea as we know it is defined and perhaps limited by the word we use for it. Word and idea are not born of scientific or logical thinking but of creative language, which means of innumerable languages—for this act of “conception” has taken place over and over again. Nobody will expect that every language, in forming its idea of and expression for play, could have hit on the same idea or found a single word for it, in the way that every language has one definite word for “hand” or “foot”. The matter is not as simple as that.
 
 Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 28). Taylor & Francis. Kindle Edition. 
@@ -271,7 +267,7 @@ Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 43). T
 
 Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (pp. 44-45). Taylor & Francis. Kindle Edition. 
 
-#### III Play and Contest as Civilizing Functions:
+## III Play and Contest as Civilizing Functions:
 >WHEN speaking of the play–element in culture we do not mean that among the various activities of civilized life an important place is reserved for play, nor do we mean that civilization has arisen out of play by some evolutionary process, in the sense that something which was originally play passed into something which was no longer play and could henceforth be called culture. The view we take in the following pages is that culture arises in the form of play, that it is played from the very beginning. Even those activities which aim at the immediate satisfaction of vital needs— hunting, for instance—tend, in archaic society, to take on the play–form. Social life is endued with supra–biological forms, in the shape of play, which enhance its value. It is through this playing that society expresses its interpretation of life and the world. By this we do not mean that play turns into culture, rather that in its earliest phases culture has the play–character, that it proceeds in the shape and the mood of play. In the twin union of play and culture, play is primary.
 
 Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 46). Taylor & Francis. Kindle Edition. 
@@ -344,7 +340,7 @@ Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 75). T
 
 Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 75). Taylor & Francis. Kindle Edition. 
 
-#### IV Play and Law:
+## IV Play and Law:
 >AT FIRST sight few things would seem to be further apart than the domain of law, justice and jurisprudence, and play. High seriousness, deadly earnest and the vital interests of the individual and society reign supreme in everything that pertains to the law. The etymological foundation of most of the words which express the ideas of law and justice lies in the sphere of setting, fixing, establishing, stating, appointing, holding, ordering, choosing, dividing, binding, etc. All these ideas would seem to have little or no connection with, indeed to be opposed to, the semantic sphere which gives rise to the words for play. However, as we have observed all along, the sacredness and seriousness of an action by no means preclude its play–quality.
 
 Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 76). Taylor & Francis. Kindle Edition. 
@@ -381,7 +377,7 @@ Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 84). T
 
 Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 88). Taylor & Francis. Kindle Edition. 
 
-#### V Play and War:
+## V Play and War:
 >EVER since words existed for fighting and playing, men have been wont to call war a game. We have already posed the question whether this is to be regarded only as a metaphor, and come to a negative conclusion. Language everywhere must have expressed matters in that way from the moment words for combat and play existed. The two ideas often seem to blend absolutely in the archaic mind. Indeed, all fighting that is bound by rules bears the formal characteristics of play by that very limitation. We can call it the most intense, the most energetic form of play and at the same time the most palpable and primitive. Young dogs and small boys fight “for fun”, with rules limiting the degree of violence; nevertheless the limits of licit violence do not necessarily stop at the spilling of blood or even at killing. The mediaeval tournament was always regarded as a sham–fight, hence as play, but in its earliest forms it is reasonably certain that the joustings were held in deadly earnest and fought out to the death, like the “playing” of the young men before Abner and Joab.
 
 Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 89). Taylor & Francis. Kindle Edition. 
@@ -430,7 +426,7 @@ Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 102). 
 
 Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 104). Taylor & Francis. Kindle Edition. 
 
-#### VI Playing and Knowing:
+## VI Playing and Knowing:
 >THE urge to be first has as many forms of expression as society offers opportunities for it. The ways in which men compete for superiority are as various as the prizes at stake. Decision may be left to chance, physical strength, dexterity, or bloody combat. Or there may be competitions in courage and endurance, skilfulness, knowledge, boasting and cunning. A trial of strength may be demanded or a specimen of art; a sword has to be forged or ingenious rhymes made. Questions may be put demanding an answer. The competition may take the form of an oracle, a wager, a lawsuit, a vow or a riddle. But in whatever shape it comes it is always play, and it is from this point of view that we have to interpret its cultural function.
 
 Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 105). Taylor & Francis. Kindle Edition. 
@@ -467,7 +463,7 @@ Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 115). 
 
 Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 116). Taylor & Francis. Kindle Edition. 
 
-#### VII Play and Poetry:
+## VII Play and Poetry:
 >IN TOUGHING on the origins of Greek philosophy and its connection with the sacred contest in knowledge and wisdom, we inevitably touch the shadowy border-line between the religious or philosophical mode of expression and the poetic. It is therefore desirable to enquire into the nature of poetic creation. This question is, in a sense, at the heart of any discussion of the relations between play and culture, for while in the more highly organized forms of society religion, science, law, war and politics gradually lose touch with play, so prominent in the earlier phases, the function of the poet still remains fixed in the play–sphere where it was born. Poiesis, in fact, is a play–function. It proceeds within the play-ground of the mind, in a world of its own which the mind creates for it. There things have a very different physiognomy from the one they wear in “ordinary life”, and are bound by ties other than those of logic and causality. If a serious statement be defined as one that may be made in terms of waking life, poetry will never rise to the level of seriousness. It lies beyond seriousness, on that more primitive and original level where the child, the animal, the savage and the seer belong, in the region of dream, enchantment, ecstasy, laughter. To understand poetry we must be capable of donning the child's soul like a magic cloak and of forsaking man's wisdom for the child's.
 
 Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 119). Taylor & Francis. Kindle Edition.
@@ -500,7 +496,7 @@ Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 132). 
 
 Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 135). Taylor & Francis. Kindle Edition.
 
-#### VIII The Elements of Mythopoesis:
+## VIII The Elements of Mythopoesis:
 >As SOON as the effect of a metaphor consists in describing things or events in terms of life and movement, we are on the road to personification. To represent the incorporeal and the inanimate as a person is the soul of all myth–making and nearly all poetry. Strictly speaking, however, the process does not follow the course just indicated. There is no question of first conceiving something as lifeless and bodiless and then expressing it as something that has body, parts and passions. No; the thing perceived is conceived as having life and movement in the first place, and such is the primary expression of it, which is no afterthought. Personification in this sense arises as soon as the need is felt to communicate one's perceptions to others. Conceptions are thus born as acts of the imagination.
 
 Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 136). Taylor & Francis. Kindle Edition.
@@ -529,7 +525,7 @@ Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 144). 
 
 Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 145). Taylor & Francis. Kindle Edition.
 
-#### IX Play-Forms in Philosophy:
+## IX Play-Forms in Philosophy:
 >Sophistry, technically regarded as a form of expression, has all the associations with primitive play as we found them in the sophist's predecessor, the vates. The sophism proper is closely related to the riddle. It is a fencer's trick. The Greek word, πρόβλημα, in its original concrete sense, meant either something you place before yourself as a defence—a shield, for instance—or something you throw down at another's feet for him to take up— a gage. Both meanings taken in the abstract hold good for the art of the sophist.2 His questions and arguments are so many “problemata” in precisely this sense. Games, or what we might call jeux d'esprit, designed to catch people out by trick–questions, held an important place in Greek conversation. The various types had been systematized under technical names and comprised the sorites, apophaskon, outis, pseudomenos, antistrephon, etc.
 
 Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 148). Taylor & Francis. Kindle Edition.
@@ -546,7 +542,7 @@ Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 152). 
 
 Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 155). Taylor & Francis. Kindle Edition.
 
-#### X Play-Forms in Art:
+## X Play-Forms in Art:
 >Play, we said, lies outside the reasonableness of practical life; has nothing to do with necessity or utility, duty or truth. All this is equally true of music. Furthermore, musical forms are determined by values which transcend logical ideas, which even transcend our ideas of the visible and the tangible. These musical values can only be understood in terms of the designations we use for them, specific names like rhythm and harmony which are equally applicable to play or poetry. Indeed, rhythm and harmony are factors of all three—poetry, music, and play—in an absolutely equal sense. But whereas in poetry the words themselves lift the poem, in part at least, out of pure play into the sphere of ideation and judgement, music never leaves the play–sphere. The reason why poetry has such a prominently liturgical and social function in archaic cultures lies precisely in its close connection, or rather indissoluble union, with musical recitation. All true ritual is sung, danced and played. We moderns have lost the sense for ritual and sacred play. Our civilization is worn with age and too sophisticated. But nothing helps us to regain that sense so much as musical sensibility. In feeling music we feel ritual. In the enjoyment of music, whether it is meant to express religious ideas or not, the perception of the beautiful and the sensation of holiness merge, and the distinction between play and seriousness is whelmed in that fusion.
 
 Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 158). Taylor & Francis. Kindle Edition.
@@ -555,7 +551,7 @@ Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 158). 
 
 Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 163). Taylor & Francis. Kindle Edition.
 
-#### XI Western Civilization Sub Specie Ludi:
+## XI Western Civilization Sub Specie Ludi:
 >The play–element in the Roman State is nowhere more clearly expressed than in the cry for panem et circenses. A modern ear is inclined to detect in this cry little more than the demand of the unemployed proletariat for the dole and free cinema tickets. But it had a deeper significance. Roman society could not live without games. They were as necessary to its existence as bread— for they were holy games and the people's right to them was a holy right. Their basic function lay not merely in celebrating such prosperity as the community had already won for itself, but in fortifying it and ensuring future prosperity by means of ritual. The great and bloody Roman games were a survival of the archaic play–factor in depotentialized form.
 
 Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 177). Taylor & Francis. Kindle Edition. 
@@ -576,7 +572,7 @@ Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 188). 
 
 Huizinga, J.. Homo Ludens Ils 86 (International Library of Sociology) (p. 192). Taylor & Francis. Kindle Edition. 
 
-#### XII: The Play-Element in Contemporary Civilization:
+## XII: The Play-Element in Contemporary Civilization:
 
 >The spirit of the professional is no longer the true play–spirit; it is lacking in spontaneity and carelessness. This affects the amateur too, who begins to suffer from an inferiority complex. Between them they push sport further and further away from the play–sphere proper until it becomes a thing sui generis: neither play nor earnest. In modern social life sport occupies a place alongside and apart from the cultural process. The great competitions in archaic cultures had always formed part of the sacred festivals and were indispensable as health and happiness-bringing activities. This ritual tie has now been completely severed; sport has become profane, “unholy” in every way and has no organic connection whatever with the structure of society, least of all when prescribed by the government.
 
