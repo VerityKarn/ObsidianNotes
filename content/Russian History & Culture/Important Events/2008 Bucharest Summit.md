@@ -1,0 +1,8 @@
+# Influence:
+Is one of the main turning points in Russian foreign policy, and is often cited as evidence for Russia's security concerns regarding an encroaching NATO, as both Georgia and Ukraine were considered for potential membership. In full, they were denied Membership Action Plans, mostly at the behest of Germany and France, as they were concerned with Russia's response. Yet, the Summit concluded that they would willingly pursue and accept having both nations join NATO in the future, if conditions changed. In the subsequent years, the membership bid was dropped by NATO, the US, Ukraine, and Georgia. Though, the Russian Federation still cites the Summit as a primary objective of the West as an effort to destabilize Russia.
+# Documentation:
+- [Bucharest Summit Declaration](https://www.nato.int/cps/en/natolive/official_texts_8443.htm)
+- [News Report of Putin's Remarks Regarding the Summit](https://archive.ph/20211010002525/https://www.thetimes.co.uk/article/vladimir-putin-tells-summit-he-wants-security-and-friendship-96655h3k9nf)
+- [2021 Statement by Russia's Foreign Ministry for US and NATO to rescind 2008 Summit Declaration](https://archive.mid.ru/ru/foreign_policy/news/-/asset_publisher/cKNonkJE02Bw/content/id/4991520?p_p_id=101_INSTANCE_cKNonkJE02Bw&_101_INSTANCE_cKNonkJE02Bw_languageId=en_GB)
+- [US backs off from statement regarding Ukraine and Georgia NATO Membership, Nov 2008](https://www.unian.info/world/166270-us-gives-way-on-nato-for-georgia-and-ukraine-ft.html)
+- [Ukraine Drops Pursuit of NATO Membership, May 2010](https://ghostarchive.org/archive/DYqbq)

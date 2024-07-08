@@ -1,4 +1,13 @@
+# Important People/Events Mentioned:
+- [[Mikheil Saakashvili]]
+- [[Dmitry Medvedev]]
+- [[Vladimir Putin]]
+- [[2008 Bucharest Summit]]
+# Extra Information/External Sources:
 Author: [[Ronald D. Asmus]]
+
+[Speech by Condoleezza Rice condemning Russia in Georgia](https://2001-2009.state.gov/secretary/rm/2008/09/109954.htm)
+
 
 Possible cautionary note to self: This is a book from a US diplomat that primarily pushed for NATO expansion and EU acceptance of Georgia. As such, there is likely a large contingency of those who would discredit the historical usefulness of the book.
 # Notes:
@@ -11,5 +20,17 @@ Possible cautionary note to self: This is a book from a US diplomat that primari
 - There is a long portion devoted to the author's personal experiences regarding his diplomatic relationship with several leaders of Georgia, and the sentiment that he believed existed within the citizenry of the nation.
 ## Chapter 1 - The Decision:
 - The author goes through many of the leadup pressures and fallouts that the Georgian president, Saakashvili, was experiencing in the weeks leading up to his decision to fire on South Ossetia on August 8.
-- To begin with, much of the on-the-ground intelligence suggested that South Ossetian forces were increasing their military capability, and were becoming more aggressive in their operations. In addition, military forces that were definitively not part of the peace-keeping forces(PKF) were beginning to be spotted and tracked. It was heavily denied by Russia, but it's now believed that these were Russian forces that were deploying prior to August 8.
-- Diplomatic attempts were proving to not be effective, as Saakashvili was continually denied being able to speak to Russian statesmen, including the President Medvedev
+- To begin with, much of the on-the-ground intelligence suggested that South Ossetian forces were increasing their military capability, and were becoming more aggressive in their operations. In addition, military forces that were definitively not part of the joint peace-keeping forces(JPKF) were beginning to be spotted and tracked. It was heavily denied by Russia, but it's now believed that these were Russian forces that were deploying prior to August 8.
+- Diplomatic attempts were proving to not be effective, as Saakashvili was continually denied being able to speak to Russian statesmen, including the President Medvedev and diplomats from the European Union.
+- Several specific events made Saakashvili believe that a ground war was imminent: The use of Russian aircraft and bombs to soften potential military targets in the week prior to 8 Aug, the Russian military drills that occurred just north of Georgia, and the mass exodus of South Ossetian civilians into Russian controlled North Ossetia.
+- Saakashvili, on 7 Aug, met with members of the Georgian National Security Council(NSC) to determine the situation. It was unilaterally agreed that the situation had escalated into a probable invasion situation, and that Russia was responsible for the situation becoming what it was.
+- On 7 Aug, communication between South Ossetia and Russia ceased, and Saakashvili dispatched Yakobashvili, a Georgian special envoy, to discuss the situation with Kulakhmetov, the head of the JPKF. According to Yakobashvili, Kulashmetov confirmed that his positions were being utilized by South Ossetian forces, and that they were no longer responding to him as commander. To Saakashvili, this almost certainly confirmed that Russia had begun to take command of the situation, and were directing local separatist groups to militarily harass Georgia, in a potential preparation for invasion. It was suggested that the best course of action was to call a ceasefire, and hope that it stayed.
+- Yakobashvili, at 18:40, held a press conference to announce a ceasefire, followed by Saakashvili repeating the message around 19:10. The hope was, given the inability to communicate with leaders from either South Ossetia or Russia, that the message would be conveyed through the media.
+- At 23:00, shelling resumed from the South Ossetian forces. Saakashvili, hoping to keep the situation contained, told his Defense Minister "Do not respond". At 23:30, it was reported that Russian forces had moved through the Roki Tunnel into South Ossetia, and Saakashvili ordered for his troops to respond to what he now believed to be an invasion.
+- This decision has been roundly criticized throughout the international community, and is believed to have potentially violated international law. Asmus's argument is that, given the situation on the ground, it was one of the only reasonable actions that Saakashvili saw possible. The situation overall could have gone two ways: pre-empt the invasion with a show of force, or decide on defending from a "slow" invasion.
+- Many of Russia's claims of casus belli did not hold up to scrutiny after the fact, including that they were defending from a genocide, or that they wished to protect Russian citizens. No evidence of genocide was found by fact-finding missions. And Russia's aggressive passport campaign was regarded as a violation of international law, as it interfered with Georgia's sovereignty.
+- The biggest claim by Russia was the death of Russian peacekeepers. Yet, there are questions as to whether the PKF was no longer neutral. Some believe that they began to act as cover for South Ossetian forces, and had become a de facto extension of Russia's forces. In addition, the first Russian peacekeepers to have died during the conflict happened after ground troops had been deployed, possibly removing their status as unaffiliated forces, as it was believed that they positioned themselves as combatants set against Georgia.
+- Asmus then goes through the claim of indiscriminate shelling, leading to attacks against civilian targets and the inordinate loss of civilian life. According to him, none of the evidence supports the claim. He even hints that this may have been a tactical ploy to move investigations away from the ethnic cleansing that occurred in South Ossetia.
+- While Saakashvili's decision was widely criticized, his reasoning was that to wait would be to put his citizens in danger. As president, he had the responsibility to lessen the potential harm to his people as much as he could, and so he chose the more aggressive action in an effort to stave off potential conflict. He also believed that his government would have removed him from office for just standing by and letting Russia invade with no challenge, and that it would result in a more Pro-Russian president to take his place.
+## Chapter 2 - From Cold to Hot War in the Caucasus:
+- 
