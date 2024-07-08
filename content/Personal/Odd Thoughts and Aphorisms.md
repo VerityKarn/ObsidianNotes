@@ -1,0 +1,2 @@
+- What is one to do if they find that all sense of tribe dissolves? When the sense of belonging is impossible to manage? Do they shout in joy, for they've found an independence most wish for? Or do they weep, for they've found themselves afloat in an endless ocean? Is this not the question of our world today?
+- 

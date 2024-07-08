@@ -1,3 +1,6 @@
+# Important People Mentioned:
+- [[Vladimir Putin]]
+# External Material:
 Lecture by Galeotti at NYU about the book: https://www.youtube.com/watch?v=J77TmCqOnS8
 
 Lecture by Galeotti at The Valdas Adamkus Presidential Library-Museum: https://www.youtube.com/watch?v=z2h-aKqoZME

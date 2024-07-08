@@ -1,0 +1,15 @@
+Author: [[Ronald D. Asmus]]
+
+Possible cautionary note to self: This is a book from a US diplomat that primarily pushed for NATO expansion and EU acceptance of Georgia. As such, there is likely a large contingency of those who would discredit the historical usefulness of the book.
+# Notes:
+## Introduction:
+- The author tells us what he was doing during the outset of the war, and his initial reaction to the outbreak of conflict.
+- He then makes a hard proclamation that the war was a direct message to not only the Georgians regarding their own sovereignty, but a message to the West, as Georgia had sought to integrate into the EU and potentially NATO. Russia, as a result of its geopolitical ambitions to hold onto the old sphere of influence, saw this as a chance to squash the idea within Georgia and others who could potentially harbor those thoughts.
+- The author then criticizes Georgia, especially Saakashvili, for acting rashly in believing that it had the potential military might to go head to head with Russia. He does state that Georgia was essentially in a worse position than previous nations who wished to join Western groups, such as the EU, given that they shared a direct border with Russia, were geographically disconnected from the mainland of Europe, and that they had existing separatist factions that complicated the problem. Yet, a bad hand does not always equal poor play.
+- There was also the fact that the West, which made overt signs of support for Georgia, did little to actually support them. Their efforts were for more centrally placed European nations, with Georgia receiving piecemeal concessions.
+- Overall, the author hopes that his telling of the conflict will give people a reason to address the new Russia that is willing to assert itself both geopolitically and militarily within its immediate borders. Given the context of the Russian invasion of Ukraine, this may very well be true.
+- There is a long portion devoted to the author's personal experiences regarding his diplomatic relationship with several leaders of Georgia, and the sentiment that he believed existed within the citizenry of the nation.
+## Chapter 1 - The Decision:
+- The author goes through many of the leadup pressures and fallouts that the Georgian president, Saakashvili, was experiencing in the weeks leading up to his decision to fire on South Ossetia on August 8.
+- To begin with, much of the on-the-ground intelligence suggested that South Ossetian forces were increasing their military capability, and were becoming more aggressive in their operations. In addition, military forces that were definitively not part of the peace-keeping forces(PKF) were beginning to be spotted and tracked. It was heavily denied by Russia, but it's now believed that these were Russian forces that were deploying prior to August 8.
+- Diplomatic attempts were proving to not be effective, as Saakashvili was continually denied being able to speak to Russian statesmen, including the President Medvedev
