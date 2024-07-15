@@ -1,5 +1,5 @@
-Primary Role: US Diplomat
-Secondary Roles: Advisor to Georgian president [[Mikheil Saakashvili]]
+Primary Role: U.S. Deputy Assistant Secretary of State for European Affairs under Clinton
+Secondary Roles: Advisor to Georgian president [[Mikheil Saakashvili]], Fellow at the Council on Foreign Relations, did work for the German Marshall Fund of the United States
 
 [Wiki Page for Overview](https://en.wikipedia.org/wiki/Ronald_Asmus)
 
