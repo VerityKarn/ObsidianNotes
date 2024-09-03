@@ -11,7 +11,7 @@
 	- As a side note, the article above mentions that the superintendent for the school district had the name "Mohammad Z. Islam" which sounded like the fakest name one could create for a caricature of either a Muslim or an Arab person, but they are [actually a real person](https://www.sbsun.com/2014/07/27/despite-scandals-rialto-unifieds-interim-superintendent-wants-to-keep-job/). [LA Times article mentioning them again](https://www.latimes.com/local/lanow/la-me-ln-rialto-holocaust-assignment-20140507-story.html).
 - The author stresses that much of this wasn't directly because of racism or insensitivity. Rather, it's a symptom of the current information age producing too much information for people to properly parse. Specifically, we don't have the tools to deal with too much information.
 - They then conclude the intro by explaining the overview of the parts within the book, and the point of each particular part and chapter.
-## Part 1 Our Current Plight
+## Part 1
 ### Chapter 1
 - Much of the first portion of this chapter goes through both the history of surveys conducted to determine average historical knowledge among several different groups, then talking about the media reporting on the response, including some extreme statements of the massive degradation of historical knowledge as a result of educational failure.
 - The point of these examples was to show how the problem is not as simple as was reported. Rather, historical ignorance tends to be rather stable overall, with each generation having similar problems with retaining historical data.
@@ -40,7 +40,7 @@
 - The next portion examines Zinn's approach to the 1950s Red Scare era of American History. Zinn roundly condemned HUAC as being frivolous and dangerous, stating that the beliefs behind their conception were unfounded. Wineburg counters this by providing evidence from both Soviet archives opened in 1992, especially those of Program Venona.
 - What alarms Wineburg about Zinn's book is its popularity, and how it managed to not effectively move students towards historical thinking than past textbooks. Instead, it offered the same approach of absorbing a monolithic narrative of history without teaching students to properly analyze the historical context.
 	- Alright, good faith fully restored. With all three chapters, it's clear that Wineburg is concerned about wider pedagogical approaches to history. This especially clears up the basis for why he vehemently opposed multiple choice testing. Holt's foundation for his criticisms of educational institutions were that they were evil organizations that sought to control and brainwash students, which he saw as part of a wider issue of youth empowerment and freedom. It's clear that Wineburg is concerned with how the testing tells us nothing about a student's capability to perform actual historical analysis, which he sees as a wider issue of education failing to teach historical thinking. Wineburg is not lambasting education itself, but how ineffective it has been. Very different levels of criticism.
-## Part 2 Thinking Historically != An Amazing Memory
+## Part 2
 ### Chapter 4
 - The majority of the chapter is focused on the work of Benjamin Samuel Bloom, 
 # Notable Quotes
