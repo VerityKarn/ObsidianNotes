@@ -15,4 +15,4 @@ All links go to notes for all my projects
 # Glossary
 [[Glossary]]
 
-Test for sync from laptop
+
