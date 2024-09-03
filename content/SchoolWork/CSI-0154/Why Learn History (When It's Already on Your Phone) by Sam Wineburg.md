@@ -1,9 +1,9 @@
-# External Sources:
+# External Sources
 - [Evaluating Information: The Cornerstone of Civic Online Reasoning](https://purl.stanford.edu/fv751yt5934) A study conducted by the author to evaluate students' capabilities of determining the reliability of online sources and information.
 - [Civic Learning Week 2023: Opening Forum: Preparing Students for Digital Democracy](https://youtu.be/xsL_g1XmyR4?si=bF_8gVi7Soh1hExf&t=9268) Mostly focused on media literacy within the digital age, with some focus on new technologies such as AI and deepfakes.
 - [Civic Learning Week 2024: National Forum: How Disinformation (including AI) Impacts Civic Learning and What We Can Do](https://www.youtube.com/live/LsX7SWPRirA?si=9VoGGRicDAc4RVZ4&t=2352)
-# Key Takeaway:
-# Notes:
+# Key Takeaway
+# Notes
 ## Introduction
 - The chapter starts with an example of a textbook that gained national interest, specifically because it featured information regarding battalions of black soldiers operating on the side of the Confederacy during the Civil War. Further examination of the claims, when the author was asked, showed that they came from a highly biased group with no primary sourcing to back the claim.
 - The author then references a study that they were involved with(linked above), which sought to evaluate students' capabilities of determining the reliability of online sources and information.
@@ -42,5 +42,5 @@
 	- Alright, good faith fully restored. With all three chapters, it's clear that Wineburg is concerned about wider pedagogical approaches to history. This especially clears up the basis for why he vehemently opposed multiple choice testing. Holt's foundation for his criticisms of educational institutions were that they were evil organizations that sought to control and brainwash students, which he saw as part of a wider issue of youth empowerment and freedom. It's clear that Wineburg is concerned with how the testing tells us nothing about a student's capability to perform actual historical analysis, which he sees as a wider issue of education failing to teach historical thinking. Wineburg is not lambasting education itself, but how ineffective it has been. Very different levels of criticism.
 ## Part 2
 ### Chapter 4
-- 
-# Notable Quotes:
+- The majority of the chapter is focused on the work of Benjamin Samuel Bloom, 
+# Notable Quotes
