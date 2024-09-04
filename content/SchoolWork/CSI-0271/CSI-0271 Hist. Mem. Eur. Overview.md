@@ -1,5 +1,6 @@
-# Information
+# Class Information
 Instructor: James Wald
+
 Title: History and Memory in Modern Europe
 # Class Notes
 [[CSI-0271 Class Notes]]
