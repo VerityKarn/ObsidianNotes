@@ -11,4 +11,14 @@
 	- There's also some comment made on how Chamberlain was seen at the time, and why his policies prior to the speech directed the seriousness of the speech, as well as how his reputation changed over time
 	- Wald states that WW1 is likely the most important event of the 20th century, as it set the tone and policies for the the coming decades and century(Modernization of War, massive loss and grief shaping political movements and policy, etc.)
 - DVD is played for the class featuring the laying of stones in remembrance of Jews, each with an individual name noting where they were taken from.
-# Day Two -
+# Day Two - Reflections on Zweig's Memoir
+- Prior to class, we were asked to read from the first three chapters of the memoir "The World of Yesterday" by Stefan Zweig. The general assignment was to read through and get an image of the world that was being described. More of a feel than rational exercise. The time period was prior to WW1, when the Hapsburg Empire was still around, in Vienna.
+- Wald lays down that much of the early classes will be establishing foundation. We'll get to the books later.
+- A discussion is had between individual students about the reading.
+- Class is brought back to a wide group to give their thoughts about the reading.
+	- Emphasis is made on the events that followed after the events of the first chapter
+	- Language used which emphasized the particular security
+	- Wald explains the use of the word security in that the time period had no real concept of danger, which is contrasted by the world the author experienced afterwards
+	- A small conversation arises about whether the author is bitter or nostalgic, with decent evidence for both.
+	- [The Blue Angel film](https://www.imdb.com/title/tt0020697/)
+	- 
