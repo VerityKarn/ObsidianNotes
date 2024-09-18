@@ -21,4 +21,13 @@
 	- Wald explains the use of the word security in that the time period had no real concept of danger, which is contrasted by the world the author experienced afterwards
 	- A small conversation arises about whether the author is bitter or nostalgic, with decent evidence for both.
 	- [The Blue Angel film](https://www.imdb.com/title/tt0020697/)
-	- 
+# Day Four -
+- Reiterating what was spoken about last class, and comparing how the two chapters were received.
+- A documentary is shown regarding the projects of Goring, who focused on shaping the Polish forest into something that was more "German".
+	- There was a massive project to remove and kill the citizens of the  Forest, with the end goal of claiming several species, including the Bison.
+	- Part of this was to re-create the idea of the old German romantic idea of the hunter.
+	- They also had a program where they attempted to breed an aggressive auroch specifically for hunting. Several were released into the wild, which caused some chaos.
+	- Overall, much of this reflected the Nazi ideas of creating their world to fit their worldview.
+# Day 5 - 
+- Put into groups to discuss the readings, and then recoalesced to discuss
+- 

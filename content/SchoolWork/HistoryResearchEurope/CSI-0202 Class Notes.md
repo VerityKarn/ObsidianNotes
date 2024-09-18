@@ -17,3 +17,10 @@
 	- Davis focused on several factors to find that there may have been a regression, as argued by some of her contemporaries, for women during the Renaissance.
 - Finally, conversation around The Return of Martin Guerre
 	- Large emphasis is placed on the density of the footnotes, especially for smaller statements. When a claim is made of the past, Davis is bringing in several sources to create foundation for those claims.
+# Day 4 -
+- Discussion is had regarding the reading.
+# Day 5 -
+- Discussion points:
+	- The technological reality of Rome, in that they were both a vast technological empire, but that the lack of pressure to change, either commercially or socially, kept them within a sort of floating point of stability
+	- The various branches and problems of the early Christianity, especially the schism of the East and West, as well as the various ideas and groups that had to come together to make Christianity closer to the Christianity that we understand it today.
+- Portion from a documentary shown regarding the fall of the Western Roman Empire.

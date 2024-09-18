@@ -4,10 +4,7 @@ Author: John Morris Roberts, Oxford Fellow and Tutor. Most well known for his ro
 # Notes
 ## Book One: Heritages
 ### Chapter 1: Bedrock
-- Much of the early portion of this chapter focused on the geographical reality of the European continent, and the climate that would have affected the early settlers.
-	- Roberts does make a note that geography is not purely a determinant of how civilizations develop, which is a point I've heard argued elsewhere. Rather, how peoples use the geography, and even shape it, such as deforesting campaigns, requires the background information.
-- The biggest factors that Roberts identifies is the location of the continent in relation to the seas and oceans, and the placement of mountains and the valleys that allow passage. All of these help us understand the movements of people throughout the history of the continent, and what routes were most easily accessible before changes made by Europeans.
-- Roberts notes that there is the question "Where does Europe end in the East?", and that it is a question that continually pops up throughout the history of the Continent.
+- Much of the early portion of this chapter focused on the geographical reality of the European continent, and the question "Where does Europe end in the East?", and that it is a question that continually pops up throughout the history of the Continent.
 	- Given the questions regarding EU membership for both Turkey and Georgia, this is still an ongoing question
 - A short section explains the very early settlers and their potential physiology. Most important, they would have already begun basic tool making and tribal association, and possibly some of the first parts of cultural identity with early religious thoughts and ritual.
 - The first major hurdle of civilization, agriculture, was widespread in Europe around 4000 BC. It's noted that this is slightly later than elsewhere in the world, likely due to the effects of glaciation within Europe slowing down human interactions with plantlife. It's also contested how agriculture came into being, either as a necessity or as a curiosity.
