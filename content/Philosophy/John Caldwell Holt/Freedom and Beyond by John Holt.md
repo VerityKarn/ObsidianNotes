@@ -1,0 +1,2 @@
+# Place in Timeline
+Written in 1972, this was the major turning point for Holt's works as moving away from Educational reform, and more the abolishment of previous educational institutions. It could even be argued that this is the first point in which Holt begins to devise his idea of doing away with educational institutions overall.
