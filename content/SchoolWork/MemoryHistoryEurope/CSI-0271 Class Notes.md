@@ -30,4 +30,5 @@
 	- Overall, much of this reflected the Nazi ideas of creating their world to fit their worldview.
 # Day 5 - 
 - Put into groups to discuss the readings, and then recoalesced to discuss
+# Day 6 - 
 - 

@@ -24,3 +24,8 @@
 	- The technological reality of Rome, in that they were both a vast technological empire, but that the lack of pressure to change, either commercially or socially, kept them within a sort of floating point of stability
 	- The various branches and problems of the early Christianity, especially the schism of the East and West, as well as the various ideas and groups that had to come together to make Christianity closer to the Christianity that we understand it today.
 - Portion from a documentary shown regarding the fall of the Western Roman Empire.
+# Day 6
+- Presentation/Discussion started by two students in class
+	- The concepts of these sections very much sets up the later portions of history
+	- The importance of Christianity within these portions and how it played a far more unifying part in keeping the European identity singular in nature
+	- 
