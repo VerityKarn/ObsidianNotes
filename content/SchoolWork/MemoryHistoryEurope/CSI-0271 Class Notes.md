@@ -30,5 +30,8 @@
 	- Overall, much of this reflected the Nazi ideas of creating their world to fit their worldview.
 # Day 5 - 
 - Put into groups to discuss the readings, and then recoalesced to discuss
-# Day 6 - 
+# Day 7 - Mosse Ch. 4-5 Discussion
+- The use of nature within memorials and graveyards
+- Ties to modernity and the general rise of the reclamation of nature in response to industrialization and urbanization.
+- Portion of the discussion centered around the concept of decadence, and how it related to ideas of masculinity
 - 
