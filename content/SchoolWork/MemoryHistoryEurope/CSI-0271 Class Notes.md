@@ -34,4 +34,8 @@
 - The use of nature within memorials and graveyards
 - Ties to modernity and the general rise of the reclamation of nature in response to industrialization and urbanization.
 - Portion of the discussion centered around the concept of decadence, and how it related to ideas of masculinity
-- 
+# Day 8 - Mosse Ch. 6-7 Discussion
+- Part of the wider process of coming to terms with the war can be seen in the shifts in language and imagery that exploded both during and after the First World War.
+- Cultural differences, a recurring theme within the book, does play a part in how strongly particular images appear throughout the text
+- We're shown a particular memorial, which includes the poem, In Flanders Fields.
+- Shown a portion of a documentary regarding Leni Riefenstahl, who was a cinematographer who did work for the Nazi party.

@@ -34,3 +34,10 @@
 	- How do attitudes towards a specific era effect how it's classified, and how do changes to those attitudes effect those in proximity of the era?
 	- The idea of the state was tenuous during the period, leading to a devaluation in relation to the Roman Empire or the Renaissance.
 	- The interconnectedness of the identities regarding France and England(The Norman conquests and intermingling of royal houses), leads to the Hundred Years War, in which each claims sovereignty of the lands, eventually leading to a full separation of the two into distinct national identities
+# Day 8 - Launching Modern History
+- Presentation/Discussion
+	- The argument is made that this was the period of individualization and the change in thought turning towards individual thought and philosophical engagement.
+	- The fragmenting of Christian identities and legitimacy led to a decrease in the central power of the Church as a force within Europe overall
+	- The overall changing of power structures due to various smaller movements of early parliamentary systems
+	- Rapid economic changes, which take a full effect among the citizens, including the slave trade
+	- 

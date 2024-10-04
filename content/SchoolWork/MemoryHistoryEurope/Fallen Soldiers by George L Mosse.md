@@ -54,3 +54,7 @@
 - There is also the recurrence of the theme of rebirth and resurrection, which has appeared within previous chapters, and has been a central theme of the book overall. Soldiers are not seen as fully dead, but rather as reborn figures of either cultural or spiritual significance.
 - There was also the reclaiming of the battlefield by nature, which was both lamented and praised by either side. Cities were rebuilt, and landscapes grew back. This was both a loss of memory, but also tied into the rebirth of the land and people
 - There is a long section regarding the symbolism and utility of the mountain for both individualism and nationalism, and how the image changed over time. A large part of it is the view of the mountain as escaping modern ideas and technology in some capacity.
+- The last section spends a decent amount of time talking about the invention of aviation and how that also played into both the idea of nature and man's capabilities
+### Chapter 7: The Process of Trivialization
+- There was the trinket making of the "bric-and-brack" of various war pieces, including helmets, shells, bullets, etc. This was further tied into the 'gamification' of war, through tin soldiers and board games.
+- A large portion is also focused on the production of plays and film that would utilize war imagery, either for propaganda purposes or as newsreels, which affected the average person's view of war.
