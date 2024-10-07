@@ -58,3 +58,23 @@
 ### Chapter 7: The Process of Trivialization
 - There was the trinket making of the "bric-and-brack" of various war pieces, including helmets, shells, bullets, etc. This was further tied into the 'gamification' of war, through tin soldiers and board games.
 - A large portion is also focused on the production of plays and film that would utilize war imagery, either for propaganda purposes or as newsreels, which affected the average person's view of war.
+## Part 3: The Postwar Age
+### Chapter 8: The Brutalization of German Politics
+- Brutalization within politics appeared in most major European countries, in which both the acceptance and call for war pervaded peacetime politics. This included an increase in stereotyping political enemies, the growth of more violent rhetoric, and the broad acceptance of mass death.
+- It was especially prominent in Germany between WW1 and WW2, as the growing nationalist movements would often associate their experiences in WW1 with their approach to politics. They would view it as a battle, would call for military recognition and growth, and often talk about their political rivals as if they were an enemy that must be defeated at all costs.
+- One potential cause of this was the changing attitudes towards death, as soldiers would often become rather stoic about facing death itself, while those at home would often sanctify death as either martyrdom or sacrifice.
+- There was also the growth of manliness as both a concept and goal that shifted after the war, in which many looked to new enemies upon which to fight against, with some shifting towards ethnic groups and others towards broad concepts like capitalism. Other values, such as decisiveness, the will to fight, and camaraderie, would be linked further with manliness.
+- One particular example of the shift in language was the exaltation of those who died for a political movement, being "murdered" by the enemy as a "martyr", while others were simply "killed" or "removed" as a matter of course.
+- There was also a shift in how law was applied for homicide overall, as soldiers were given more leniency in sentencing or amnesty was argued in cases of political assassination
+- Among the most prominent effects was the transference of war-time propaganda language into everyday politics. Grotesque stereotyping and villainizing became the norm among a wide audience, with focuses on groups such as the Romani and the Jews being good examples. Dehumanization became a norm, with it being especially strong in Germany.
+- Within Germany, the most concentrated focus of much of this was the categorizing Jews as the enemy of the State of Germany itself. Propaganda was distributed, stereotypes flourished, and they were routinely treated as Prisoners prior to the growth of concentration camps.
+### Chapter 9: Building on War
+- The perpetuation of military language into politics, such as the usage of *einsatz*(marching orders) or departments as "fronts", served as both a continuation and propagation of wartime ideas and concepts during the between years of World Wars.
+- Both Italy and Germany proposed the "new man" for politics, which would often take inspiration from the concepts and imagery of soldiers, especially WW1 soldiers.
+- The rise of books and films roughly a decade after the end of the war began to perpetuate the concept of the war as a largely national good, with many espousing the virtues of a soldier's life and the dedication of the citizenry.
+- The Spanish Civil War of 1936 reignited some of the old passions that had occurred during the outbreak of war in 1914, mostly to a new generation that had little experience with the previous conflict.
+- A large portion of the Spanish Civil War became a focal point for ideological drives, such as the growth of communism and fascism, where there was a growing acceptance of war as a desirable method of achieving one's goals.
+- Pacifism movements had varying levels of success in the interwar period. Both Germany and Italy never really got one off the ground, as they were usually looked at as sympathizers with enemies. France had a stable pacifist movement, but was mostly consumed by other Socialist priorities. It was the same in Britain, where the Spanish Civil War relitigated the question of war against fascism.
+- While there were some successful attempts at pacifist literature, many of them, such as *All Quiet on the Western Front*, could be reinterpreted to be favorable to the experience of war overall. As such, few managed to make a dent on the growing sentiment that war was both necessary and moral.
+### Chapter 10: The Second World War, the Myth, and the Postwar Generation
+- 

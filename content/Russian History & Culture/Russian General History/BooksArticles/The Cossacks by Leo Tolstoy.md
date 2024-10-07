@@ -1,0 +1,2 @@
+# Outside Information
+This is primarily a fictional tale that takes a large amount of inspiration from Tolstoy's early life within the Caucasus, making it a semi-autobiographical tale. It is, unfortunately, one of the few resources available for a general English speaking audience to understand the culture and importance of the Cossacks during the Russian Imperial Age. To be read with the understanding that it is a subjective perspective, which can help flesh out historical knowledge, but not a good source by itself.
