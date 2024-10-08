@@ -39,3 +39,5 @@
 - Cultural differences, a recurring theme within the book, does play a part in how strongly particular images appear throughout the text
 - We're shown a particular memorial, which includes the poem, In Flanders Fields.
 - Shown a portion of a documentary regarding Leni Riefenstahl, who was a cinematographer who did work for the Nazi party.
+# Day 9 - Mosse Part 3
+- 
