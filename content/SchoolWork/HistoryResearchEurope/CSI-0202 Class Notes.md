@@ -40,4 +40,5 @@
 	- The fragmenting of Christian identities and legitimacy led to a decrease in the central power of the Church as a force within Europe overall
 	- The overall changing of power structures due to various smaller movements of early parliamentary systems
 	- Rapid economic changes, which take a full effect among the citizens, including the slave trade
-	- 
+# Day 10 - Modern Europe: Industry, Ideologies
+- 

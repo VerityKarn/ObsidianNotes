@@ -40,4 +40,6 @@
 - We're shown a particular memorial, which includes the poem, In Flanders Fields.
 - Shown a portion of a documentary regarding Leni Riefenstahl, who was a cinematographer who did work for the Nazi party.
 # Day 9 - Mosse Part 3
+- Was essentially fruitless
+# Day 10 - Douglas Part 1: Nuremberg
 - 
