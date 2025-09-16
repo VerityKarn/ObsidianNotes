@@ -11,4 +11,4 @@
 - Goes over how drops in cost affects business operations and development, according to Coase theorem. Points out what happens when you have a large drop in costs
 - Good overview of theories regarding organization, and how the introduction of technology lessens the cost of organizing, producing new structures of organizing that were generally theoretical before.
 ## Chapter 3 - EVERYONE IS A MEDIA OUTLET
-- 
+- Generally good chapter about the growth of media creation among a wider portion of the population
