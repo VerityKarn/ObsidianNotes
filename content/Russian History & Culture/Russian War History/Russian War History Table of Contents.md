@@ -1,4 +1,4 @@
-### Most Influential in Russian History:
+# Most Influential in Russian History:
 
 - [[Great Northern War(1700-1721)]]
 - [[Napoleonic Wars(1803-1815)]]
@@ -8,13 +8,13 @@
 - [[October Revolution and Civil War(1917-1922)]]
 - [[World War 2(1941-1945]]
 - [[Soviet-Afghan War(1979-1989)]]
-### Wars of Modern Russian Expansion and Influence:
+# Wars of Modern Russian Expansion and Influence:
 
 - [[Chechen Wars(1994-1996, 1999-2009)]]
 - [[Russo-Georgian War(2008)]]
 - [[Syrian Civil War(2011-Present)]]
 - [[Annexation of Crimea to Modern Ukraine Invasion(2014-Present)]]
-### Wars with Russian Support:
+# Wars with Russian Support:
 
 - [[Greek Civil War(1946-1949)]]
 - [[Korean War(1950-1953)]]
@@ -24,5 +24,8 @@
 - [[Ethiopian Civil War(1974-1991)]]
 - [[Mali Civil War(2011-Present)]]
 
-### Writings on Current Warfare and Tactics:
+# Writings on Current Warfare and Tactics:
 - [[Controlling Chaos - How Russia manages its political war in Europe]]
+
+# General Books:
+- [[Forged In War by Mark Galeotti]]
