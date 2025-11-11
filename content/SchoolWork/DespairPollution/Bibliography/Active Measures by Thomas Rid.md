@@ -1,0 +1,24 @@
+# Background
+# Notes
+## What is Disinformation?
+- Author gives background to his investigations with the 2016 DNC hack, and how he was a called to Congress to testify
+- Makes the argument that understanding the history of disinformation is vital to understanding the current environment
+- Lays out several misconceptions of how disinformation operates. Primarily, it isn't information that is false by itself. In fact, the most successful campaigns are those that use verifiable information, but are either modified, spun, or come from seemingly independent sources. The example of Gucifer 2.0 is used, where the info were legitimate emails obtained, but that Gucifer attempted to claim themselves as an independent hacker that had no Russian ties whatsoever. In this case, the disinfo is that "Russia had nothing to do with the hack." 
+## 1921-1945: Deceive
+### 1. The Trust
+- Brief mention of how the CIA studied "Operation Trust"(In Russian, they used the term *Operatsiya Trest*/Операция Трест).
+- I'm liking the footnotes for this book so far. I've gained some good sources to potentially dive into if necessary.
+- Essentially, the Bolsheviks, during the period of civil war, were highly wary of Russian emigre groups. Dzerzhinsky, head of the Cheka, was primarily focused on subverting potential White or monarchist outbreaks. Artuzov, head of counterintelligence, proposed focusing on Yakushev, an older aristocrat, because of an intercepted letter describing him as a potential counter-revolutionary.
+- Much ado about how they went about getting Yakushev detained for interrogation.
+- Using personal connections, he's turned into an asset for the Cheka, heading a fake monarchist organization, MOTsR(Monarchist Organization of Central Russia).
+	- Footnote specifies that there is some disagreement over whether the organization existed prior, as believed by the CIA, or was created by the Cheka, as claimed by the SVR. Sources for both are provided. Look into that.
+	- Quick search on the Russian source of the history, and it's all available online, in multiple formats. Linking here in case I forget: [Очерки истории российской внешней разведки(Essays on the History of Russian External Intelligence)](https://royallib.com/book/primakov_evgeniy/ocherki_istorii_rossiyskoy_vneshney_razvedki_tom_2.html)
+- Yakushev was tasked with convincing emigre groups that there was already a widespread movement against the Bolsheviks, that the Bolshevik movement itself was weak and waning, and that they should simply share information with him rather than take action.
+- The secondary goal was for other intelligence agencies to view Yakushev as a source for potential information, with them targeting the Estonians first, and later expanding it to influence other "Western powers."
+- In 1923, an office was created for *dezinformatsiya*/Дезинформация, which expanded that focus on various western powers. Finland, Poland, and Britain all had fake monarchist groups established that had direct ties to the now Soviet intelligence organizations, which would lead to further pushes of fake intel to other powers.
+- Author is now telling the story of Sydney Reilly, who was tricked into entering Moscow, arrested, and eventually executed.
+- Alongside this, is the story of Vassili Shulgin, another emigre who was given a guided tour of Russia under the new Soviet regime, under the guise of attempting to find his son. It was carefully curated to make it appear as if the Soviet powers were unpopular and failing. Then he was encouraged to write about his travels to give the impression to anti-Soviet emigres that resistance was unnecessary.
+- The book was written, and it was far later that Shulgin acknowledged that he'd been had. In a new edition to the book, he added, "кроме подписи автора, т.е. 'В. Шульгин,' под этой книгой можно прочесть невидимую, но неизгладимую ремарку: 'Печатать разрешаю Ф. Дзержинский,'"("Beside the author signature of 'V. Shulgin', under this book it's possible to read invisibly, but indelibly, the note: 'Print authorized by F. Dzerzhinsky,")
+	- [His book Три Столицы is also available in multiple formats](https://www.rulit.me/books/tri-stolicy-get-312208.html) Got the quote from Rid, but confirmed it in the EPUB version here. It's in the last section titled "Дмитрий Жуков Ключи к «Трем столицам»"(Dmitri Zhukov's keys to "Three Capitals").
+	- Side note, going over the original Russian title had me wondering if it was Shulgin's actual remarks or Zhukov's, but they are from Shulgin. The section is a mixture of Zhukov's commentary, a conversation held between him and Shulgin, and some further writing by Shulgin. A clear example of some of my frustrations with Russian literature overall, in which details, such as who is actually speaking at any given moment, is left to the side. Unless read two or three times, even properly translated, it's sometimes difficult to remember who is saying what.
+- 
