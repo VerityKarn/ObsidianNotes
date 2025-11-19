@@ -1,0 +1,6 @@
+# Background
+Mysterious account that appears claiming to have gotten material from Equation Group, which was a label made by Kaspersky Labs to attribute a series of cyber attacks to a team related to the United States(Whether Equation Group is TAO or closely related to TAO is nebulous. Check Kaspersky report below). Made confusing posts regarding US foreign policy, in broken English, while attempting to auction off an encrypted set of what they claimed were US made exploits. Few took them seriously, until a year later, when the encryption key was given out for the folder, and it was confirmed that there were indeed dozens of computer exploits, famously among them EternalBlue. There were also files showing operations and NSA personnel. 
+# Sources
+- [Steemit Blog with every post](https://steemit.com/@theshadowbrokers/posts)
+	- [Archived](https://web.archive.org/web/20250511073951/https://steemit.com/@theshadowbrokers)
+- [Equation Group: The Crown Creator of Cyber Espionage - Kaspersky Labs](https://www.kaspersky.com/about/press-releases/equation-group-the-crown-creator-of-cyber-espionage)

@@ -1,0 +1,13 @@
+# Disinformation
+## People & Groups
+[[TheShadowBrokerss]]
+## Reports & News
+- [Investigation | Talking Points: When chatbots surface Russian state media - Institute for Strategic Dialogue](https://www.isdglobal.org/digital%5Fdispatches/talking-points-when-chatbots-surface-russian-state-media/)
+- [How Russia Targets the U.S. Military - Politico](https://www.politico.com/magazine/story/2017/06/12/how-russia-targets-the-us-military-215247/#:~:text=In%20October%202015%2C%20Veterans%20Today,the%20Globalists%20in%20Total%20Disarray.%E2%80%9D) by Ben Schreckinger, 12 June 2017
+- [Russia's Lawfare Playbook: How the Kremlin Weaponized Human Rights Courts to Launder Disinformation - American Sunlight Project](https://americansunlight.substack.com/p/russias-lawfare-playbook-how-the) by Illia Perehontsev, 31 Oct. 2025
+## Journal Articles
+- [Weaponizing History: Russia's War in Ukraine and the Role of Historical Narratives - Journal of Applied History](https://brill.com/view/journals/joah/4/1-2/article-p102_9.xml?language=en&ebody=full%20html-copy1) by Grigori Khislavski, 12 Dec 2022
+## Opinion
+- [When Confronting Russian Propaganda, Truth is Not Optional - Policy Magazine(CA)](https://www.policymagazine.ca/when-confronting-russian-propaganda-truth-is-not-optional/) by Maria Popova, 5 Nov. 2025
+## Books
+- [[Active Measures by Thomas Rid]]
