@@ -1,0 +1,2 @@
+# News & Reports
+- [Russia Declares Humans Rights Watch an 'undesirable organization' - Kyiv Independent](https://kyivindependent.com/russia-declares-human-rights-watch-an-undesirable-organization/) by Sonya Bandouil, 30 Nov 2025

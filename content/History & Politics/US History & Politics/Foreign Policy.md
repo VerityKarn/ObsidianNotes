@@ -1,0 +1,3 @@
+# Articles & Reports
+- [Make Money, Not War - Wall Street Journal](https://www.wsj.com/world/russia/russia-u-s-peace-business-ties-4db9b290) by Drew Hinshaw, Benoit Faucon, Rebecca Ballhaus, Thomas Grove, and Joe Parkinson, 28 Nov 2025
+- [How Trump's 28-point plan for Ukraine shocked the world - Axios](https://www.axios.com/2025/11/24/trump-ukraine-plan-28-points-back-story) by Barak Ravid, Dave Lawler, Marc Caputo, and Colin Demarest, 24 Nov 2025

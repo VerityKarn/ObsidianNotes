@@ -1,0 +1,2 @@
+# News & Reports
+- [Many Fighting Climate Change Worry They Are Losing the Information War - The New York Times](https://www.nytimes.com/2025/11/30/climate/climate-change-disinformation.html?nl=Climate+Forward) by Lisa Friedman and Steven Less Myers, 30 Nov 2025

@@ -30,11 +30,14 @@
 - In the year leading up to the Pearl Harbor attacks, the Tanaka Memorial had circulated among U.S. military, newspapers, and politicians. After the attacks, it was widely believed by Americans that the memorial absolutely had to be true, and that Japan's claims against the document were simply further proof of their authenticity.
 - Even after scouring through Japanese archives, no original document, nor even a hint of the document, appeared. While the document was thoroughly debunked as a forgery in the 1930s, both China and Russia still claim that it was a successful espionage mission that produced real documentation.
 ### 3. The Whalen Forgeries
-- Some background is given on Grover Whalen, the NYPD police commissioner who took a rather brutal stance on organized crime and communists, leading to rather bloody confrontations during the era of the Great Depression.
+- Some background is given on Grover Whalen, the NYPD police commissioner who took a rather brutal stance on organized crime and communists, leading to bloody confrontations during the era of the Great Depression.
 - Whalen eventually claimed to have found six letters that proved that Amtorg, the official Soviet trading organization, was among several organizations in NY that were part of a concentrated effort to produce chaos through riots within the city, and espionage against the US. The letters were inconsistent, and many did not take this as good evidence, though Whalen insisted that they were authentic.
 - It was several months later that the letters were proven to be printed in a shop in NY, by a man named Wagner, that claimed that someone had wanted proofs for a larger print job.
 - The Fish Committee was formed to ascertain the truth about Communist activity within the US, and the forgeries played a part of the investigation, but was ultimately dismissed as unimportant.
 - Author makes an argument that the Whalen episode shows how the forging of documents creates an inherent distrust of documentation, and that it proved how useful it was to blend true and false.
+	- Specifically, Amtorg was conducting espionage on behalf of the Soviet Union, but the creation of the forgeries created doubt on those claims, allowing them some deniability when they were accused.
 ## 1954-1960: Forge
 ### 4. American Disinformation
+## 2015-2017: Leak
+### 31. The Shadow Brokers
 - 
