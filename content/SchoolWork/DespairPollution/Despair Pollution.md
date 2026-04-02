@@ -31,26 +31,36 @@ While some of these terms may appear intuitive, much of the controversy that sur
 #### Disinformation
 #### Misinformation
 #### Political warfare/Active measures
+- [George F. Kennan on Organizing Political Warfare](https://web.archive.org/web/20150123010608/http://digitalarchive.wilsoncenter.org/document/114320) Wilson Center Digital Archive, 30 April 1948.
 ### Cyberwarfare
 #### Cyberattack
 #### Cyberespionage
 ### Hybrid Warfare
-### Energy Warfare
-## History
-### Tsarist
-#### Protocols of the Elders of Zion
-### Soviet
-#### Operation Trust
-#### Tanaka Memorial
-### Russian Federation
-## 
+### Informatsionnoe Protivoborstvo (Information Confrontation)
+- [Rivalry in the Information Sphere: Russian Conceptions of Information Confrontation](https://www.rand.org/pubs/research_reports/RRA198-8.html#:~:text=An%20examination%20of%20the%20Russian,the%20post%E2%80%93Cold%20War%20era.) RAND, 18 Aug 2022 
+#### Reflexive Control
+## 2016 Elections 
+- [Report On The Investigation Into Russian Interference In The 2016 Presidential Election - U.S. Department of Justice](https://www.justice.gov/archives/sco/file/1373816/dl) Mar 2019
+### Troll Farms and Bots
+#### Internet Research Agency
+### The Shadow Brokers
+- [TheShadowBrokers Steemit Archive](https://swithak.github.io/SH20TAATSB18/Archive/Messages/TSB/TheShadowBrokers-SteemitMessages/)
+## 2020 Elections
 
+## 2024 Elections
+### Tenet Media
+- [Indictment against Kostya and Lena - US District Court Southern District of New York](https://www.justice.gov/d9/2024-09/u.s._v._kalashnikov_and_afanasyeva_indictment_0.pdf) 
+### Pravda Network/Portal Kombat/LLM Grooming
+- [Russiaa, AI and the Future of Disinformation Warfare - Royal United Services Institute](https://static.rusi.org/russia-ai-and-the-future-of-disinformation-warfare.pdf)
+- [Pravda Dashboard](https://portal-kombat.com/)
+- [A Pro-Russia Content Network Foreshadows the Automated Future of Info Ops - American Sunlight Project](https://static1.squarespace.com/static/6612cbdfd9a9ce56ef931004/t/67fd396818196f3d1666bc23/1744648558879/PK+Report.pdf)
+- [Portal Kombat - Viginum](https://www.sgdsn.gouv.fr/files/files/20240212_NP_SGDSN_VIGINUM_PORTAL-KOMBAT-NETWORK_ENG_VF.pdf) Feb 2024
 # Bibliography
 ## Books
-- [[Active Measures by Thomas Rid]] At this point, it is the 20th best selling book under the label "Propaganda & Political Psychology" on Amazon. Above that are books by Jack Posobiec, Michael Knowles, and Glenn Beck, all of which have perpetuated Russian myths, such as the Ukraine bioweapons lab theory, with Posobiec being especially outspoken in defending Russia's actions in Bucha. The battle is so uphill that it's a cliff.
+- [[Active Measures by Thomas Rid]] 
 ## Journal Articles
-## News Articles
+## News Articles/Analysis
 - [‘Latching onto successful projects’ Leaked documents suggest Kremlin spin doctors are presenting popular movies and TV to Putin as propaganda wins - Meduza](https://meduza.io/en/feature/2024/02/27/latching-onto-successful-projects)
-- 
+- [](https://www.brennancenter.org/our-work/analysis-opinion/new-evidence-shows-how-russias-election-interference-has-gotten-more)
 ## Documentaries
 ## Other Media

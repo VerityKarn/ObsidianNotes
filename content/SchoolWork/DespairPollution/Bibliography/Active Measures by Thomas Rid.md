@@ -38,6 +38,43 @@
 	- Specifically, Amtorg was conducting espionage on behalf of the Soviet Union, but the creation of the forgeries created doubt on those claims, allowing them some deniability when they were accused.
 ## 1954-1960: Forge
 ### 4. American Disinformation
+- Stage is set several years after the end of WW2, where rumors of abuse of political prisoners inspires Berlin youth groups, such as *Kampfgruppe gegen Unmenschlichkeit*(Fighting Group against Inhumanity or KgU), and who was represented by Rainer Hildebrandt.
+- The Office of Strategic Services was dissolved October 1, 1945, just before the United Nations was formed, but global shifts led to the creation of the CIA on 18 September, 1947, gaining authorization for covert action on December 17, 1947 by the National Security Council.
+- In a missive with the subject line "Operation Graveyard," the Berlin Operations Base(BOB) of the CIA noted the existence of Hildebrandt, and his successful attempts to get into contact with ex-prisoners and other political refugees.
+- The CIA, initially using a middleman, allocated funds and opportunities to Hildebrandt, and two other groups, in the hopes that their efforts would foster anti-soviet and anti-communist sentiments.
+- The Soviets responded by targeting Walter Linse, a lawyer that was part of another group, *Untersuchungsauss-chuss freiheitlicher Juristen*(Investigation Committee of Free Jurists), which was "subsidized and guided by CIA since inception in 1949." In 1952, he was kidnapped, and interrogated, with 27 East Berlin informers being arrested shortly afterwards. Eventually he was executed in 1953 in Moscow.
+- An officer named William King Harvey became chief of BOB, and the station grew to have 250 staff, making it the largest CIA base worldwide. It was under him that the third front group, eventually known as Aquator publishing. They focused on recruiting a German ex-soldier, Karl-Heinz Marbach, who had grown staunchly anti-soviet after the war.
+- Marbach was contacted, and given full clearance and funding to produce anti-soviet propaganda. Initially this started as a satirical newspaper, but Marbach started producing forgeries of Soviet youth newspapers.
+### 5. The Kampfgruppe
+- More info on KgU is given, including their focus on creating a registry for political prisoners in East Germany, and how they received a growing number of visitors to their center, some of whom were being screened for potential recruitment into covert operations.
+- While Hildebrandt started the KgU, the CIA were forced to remove him from the organization when 5 staff members went to their CIA case officer with evidence of seducing minors, embezzling funds, and potentially having connections with East Berlin agents. Ernst Tillich took over.
+- Now large enough to run their own covert operations, the KgU expanded their scope, attempting to discover Soviet informers, and broadcasting the information on [RIAS(Rundfunk im amerikanischen Sektor)](https://en.wikipedia.org/wiki/Rundfunk_im_amerikanischen_Sektor). They also expanded to hosting lectures and presentations focused on "crimes against humanity."
+- One of their major campaigns was the publication of propaganda brochures to target East Berlin, tying them to balloons and finding ways to have the material drop after a period of time.
+- They started a campaign of "administrative harassment," in which they utilized forged letters and material to produce sabotage, including one instance where they convinced a mining company to cease shipments for a time.
+- They also experimented with physical sabotage, including stink bombs, using acid to destroy machinery, and popping vehicle tires.
+- One of their most successful campaigns was the interference of elections on June 23 1957 by creating and distributing material that called the legitimacy of the election into question.
+	- Now doesn't that sound familiar.
+- The connection between the CIA and the KgU was essentially an open secret, with the leaders of the KgU eventually directly working with CIA case handlers, and news media frequently calling out the KgU as "being an instrument of a United States intelligence service."
+	- However, this turned out to work better than full secrecy, as exposing the operation would gain the Soviets little attention or pushback, as the front organization were primarily a "humanitarian" program. The response to compromising the operation would gain little traction.
+- Eventually, in 1960, the CIA ceased funding the KgU. Since almost all of the operational costs of the KgU had been coming from the CIA, this led to the closure of the organization.
+### 6. LC-Cassock, Inc.
+- Shifting focus to Project LCCASSOCK, which was a front operation in Berlin that was headed by Marbach. The organization was originally called Aktionsgruppe B, then Cramer Werbung(Cramer Advertising), and eventually became Aquator Publishers.
+- Their main operations were to create falsified copies of publications based in East Berlin, attempting to pass them off as genuine copies to fool the original customers into reading versions with American propaganda laced throughout, or to confuse officials about what their orders were. It was a more targeted and refined version of "administrative harrassment."
+- Some of their publications actually managed to be distributed not just to East Berlin, but several Soviet Bloc countries.
+- One of their operations was to distribute horoscopes, which were popular among German and Soviet citizens, but was deemed to be anti-communist and against "dialectical materialism." Often, these horoscopes would be created to target officials, such as Hans Fruck, the deputy head of the Stasi's foreign intelligence arm, where they would claim that his sign was always unlucky.
+	- It does say that there was evidence that the horoscopes did work, but that we don't know how well.
+### 7. Faking Back
+- Chapter starts with telling of the Senate Judiciary Committee hearing of Richard Helms on June 2, 1961, which was had to explain the increase and changes in Soviet forgeries and disinformation.
+- On 15 Feb, 1957, *Nues Deutschland*, the official daily newspaper of East Germany, claimed that it had a copy of a letter between Rockefeller and Eisenhower, and that the letter showed how the White House was simply being controlled by capitalist interests to achieve world domination.
+	- Well, at least I now have a better idea of where this wacko theory comes from.
+- News of the letter's existence, and the published text, was quick to catch on, with the story appearing across the globe within days.
+- They followed it up with the publication of the "Dulles Memorandum," a now infamous forgery that claimed that the United States wanted to suppress Arab national movements, and assume colonial control of the Middle East.
+	- I think I still hear American Libertarians reference this every now and again.
+- We switch over to the Soviet Union's push for the idea of "military psychosis," and how they feared that a random pilot holding a nuclear weapon might just decide to start WW3 by themselves.
+	- Basically, the inspiration for the movie "Dr. Strangelove"
+- Basically, it was a series of steps. First Khrushchev coined the idea in an interview. Then, *Nues Deutschland* published another letter that apparently showed that a majority of the U.S. Air Force flight personnel suffered from "psychoneurosis." Then, a mechanic crashed a B-45 Tornado, which gave the Soviets an example to point towards. Finally, a Soviet diplomat brought forward a supposed letter from an American pilot, threatening to bomb a location with a nuclear weapon.
+### 8. Kampfverband
+- 
 ## 2015-2017: Leak
 ### 31. The Shadow Brokers
 - 

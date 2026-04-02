@@ -1,5 +1,5 @@
 # People & Groups
-- [[TheShadowBrokerss]]
+- [[The Shadow Brokers]]
 # Reports & News
 - [Investigation | Talking Points: When chatbots surface Russian state media - Institute for Strategic Dialogue](https://www.isdglobal.org/digital%5Fdispatches/talking-points-when-chatbots-surface-russian-state-media/)
 - [How Russia Targets the U.S. Military - Politico](https://www.politico.com/magazine/story/2017/06/12/how-russia-targets-the-us-military-215247/#:~:text=In%20October%202015%2C%20Veterans%20Today,the%20Globalists%20in%20Total%20Disarray.%E2%80%9D) by Ben Schreckinger, 12 June 2017
