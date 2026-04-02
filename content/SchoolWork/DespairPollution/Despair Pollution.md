@@ -55,6 +55,8 @@ While some of these terms may appear intuitive, much of the controversy that sur
 - [Pravda Dashboard](https://portal-kombat.com/)
 - [A Pro-Russia Content Network Foreshadows the Automated Future of Info Ops - American Sunlight Project](https://static1.squarespace.com/static/6612cbdfd9a9ce56ef931004/t/67fd396818196f3d1666bc23/1744648558879/PK+Report.pdf)
 - [Portal Kombat - Viginum](https://www.sgdsn.gouv.fr/files/files/20240212_NP_SGDSN_VIGINUM_PORTAL-KOMBAT-NETWORK_ENG_VF.pdf) Feb 2024
+### Project Matryoshka
+- [Matryoshka: A pro-Russian campaign targeting media and the fact-checking community - VIGINUM](https://www.sgdsn.gouv.fr/files/files/20240611_NP_SGDSN_VIGINUM_Matriochka_EN_VF.pdf) June 2024
 # Bibliography
 ## Books
 - [[Active Measures by Thomas Rid]] 
